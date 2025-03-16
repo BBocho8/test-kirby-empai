@@ -1,0 +1,84 @@
+title: Home
+fields:
+  MainText:
+    label: Main Text
+    type: text
+    required: true
+    placeholder: Enter the main text for the home page.
+  SubText1:
+    label: Sub Text 1
+    type: text
+    required: true
+    placeholder: Enter the first subtext.
+  SubText2:
+    label: Sub Text 2
+    type: text
+    required: true
+    placeholder: Enter the second subtext.
+  Buttons:
+    label: Buttons
+    type: structure
+    max: 4
+    fields:
+      icon:
+        label: Icon
+        type: select
+        options:
+          icon1: Icon 1
+          icon2: Icon 2
+          icon3: Icon 3
+          icon4: Icon 4
+        required: true
+      buttonText:
+        label: Button Text
+        type: text
+        required: true
+        placeholder: Enter the button text.
+  Features:
+    label: Features
+    type: structure
+    fields:
+      icon:
+        label: Icon
+        type: select
+        options:
+          icon1: Icon 1
+          icon2: Icon 2
+          icon3: Icon 3
+          icon4: Icon 4
+        required: true
+      featureName:
+        label: Feature Name
+        type: text
+        required: true
+        placeholder: Enter the feature name.
+      featureSubtitle:
+        label: Feature Subtitle
+        type: text
+        required: true
+        placeholder: Enter the feature subtitle.
+      featureDescription:
+        label: Feature Description
+        type: textarea
+        required: true
+        placeholder: Enter the feature description.
+      featureButtonText:
+        label: Feature Button Text
+        type: text
+        required: true
+        placeholder: Enter the feature button text.
+      images:
+        type: files
+        layout: cards
+        template: image
+        info: "{{ file.dimensions }}"
+        image:
+          ratio: 5/4
+          cover: true
+        max: 1
+        size: small
+      moduleID:
+        label: Module Page ID (from URL)
+        type: text
+        required: true
+        placeholder: Enter the corresponding module ID (from the URL).

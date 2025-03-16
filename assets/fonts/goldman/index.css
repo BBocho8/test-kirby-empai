@@ -1,0 +1,15 @@
+/* Regular (400) */
+@font-face {
+  font-family: 'Goldman';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./Goldman-Regular.ttf') format('truetype');
+}
+
+/* Bold (700) */
+@font-face {
+  font-family: 'Goldman';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./Goldman-Bold.ttf') format('truetype');
+}

@@ -1,0 +1,68 @@
+Title: Modules - Energiemarkt
+
+----
+
+Icon: icon1
+
+----
+
+Modulename: Energiemarkt
+
+----
+
+Introduction:
+
+Mit dem Energiemarkt von empAI behalten Sie Ihre Energieeinkäufe mühelos im Blick. Genießen Sie die Vorteile modernster Technologie, die Ihnen hilft Ihren Energiemix zu verstehen, Ihre Energieverträge bestmöglich zu verwalten und den benötigten Strom effizient einzukaufen. 
+
+All dies ermöglicht es Ihnen, sich in dem dynamischen Energiemarkt zurechtzufinden und Ihre Kosten auf ein Minimum zu reduzieren.
+
+----
+
+Features:
+
+- 
+  images:
+    - file://H7e9XHJgaDrDD2oR
+  subtitle: Wirtschaftlichkeitsanalyse
+  description: >
+    empAI verschafft Ihnen einen umfassenden
+    Überblick über Ihren Energiemix, indem
+    es den Einsatz von Spotmarkt,
+    Tranchenmodell, selbst erzeugter Energie
+    und weiteren Quellen transparent
+    darstellt und gezielt analysiert. Dabei
+    zeigt empAI den Einfluss selbst
+    erzeugter Energie auf die Kosten und
+    Gewinne durch Netzeinspeisungen und
+    deckt Potenziale zur Optimierung auf. So
+    unterstützt empAI Sie, den optimalen
+    Energiemix für stabile Kosten zu
+    gestalten und flexibel auf Markttrends
+    zu reagieren.
+- 
+  images:
+    - file://H7e9XHJgaDrDD2oR
+  subtitle: Verwaltung Stromverträge
+  description: >
+    Mit der Verwaltungsfunktion von empAI
+    können Sie sämtliche Energieverträge
+    und Trancheneinkäufe nahtlos und
+    effizient an einem Ort verwalten. Dank
+    unserer Plattform haben Sie jederzeit
+    Zugriff auf alle wichtigen Vertragsdaten
+    und Kaufdetails. So haben Sie die
+    maximale Transparenz und Kontrolle über
+    Ihre Energiegeschäfte.
+- 
+  images:
+    - file://H7e9XHJgaDrDD2oR
+  subtitle: Tranchenmarktsimulation
+  description: 'Nutzen Sie die Tranchenmarktsimulation von empAI, um fundierte Entscheidungen im dynamischen Energiemarkt zu treffen. Mithilfe dieser innovativen Entwicklung können Sie die verschiedenen Tranchen verfolgen und zukünftige Preisbewegungen sowie Angebot und Nachfrage präzise simulieren. Durch die Analyse Ihrer Verbrauchs- und Erzeugungsdaten, Ihrer bisherigen Tranchenkäufe und aktuellen Trends im Energiemarkt erhalten Sie tiefgreifende Einblicke, die Ihnen helfen, Ihre Energieeinkaufsstrategie zu optimieren und spürbar Ihre Kosten zu senken.'
+
+----
+
+Relatedmodules: 
+
+----
+
+Uuid: B4dZthFCXkyWfbAg

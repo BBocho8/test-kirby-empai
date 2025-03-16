@@ -1,0 +1,38 @@
+title: Site
+
+sections:
+  pages:
+    type: pages
+  modules:
+    type: pages
+    # layout: cards
+    parent: kirby.page("modules")
+    template: modules
+    headline: Modules
+    empty: No modules yet
+    info: "{{ page.title }}"
+    status: true
+    columns:
+      - icon
+      - title
+      - introduction
+      - features
+    sortable: true
+    limit: 10
+    size: small
+  blogposts:
+    type: pages
+    parent: kirby.page("blog")
+    template: blogpost
+    headline: Blog Posts
+    empty: No blog posts yet
+    status: true
+    columns:
+      - title
+      - date
+      - author
+      - description
+      - category
+    sortable: true
+    limit: 10
+    size: small

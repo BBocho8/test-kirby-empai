@@ -1,0 +1,362 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+
+  
+  body {
+    @apply pt-navbarPadding font-manrope;
+  }
+  
+}
+
+@layer components {
+
+  .btn {
+    @apply bg-primary hover:bg-primary-400 text-white py-2 px-4 rounded font-goldman
+  }
+
+  .btn-secondary {
+
+    @apply bg-transparent border border-black text-black py-2 px-4 rounded font-goldman
+  }
+
+
+/* NAVBAR */
+
+.logo {
+  @apply w-32 mx-auto;
+}
+
+.navbar-desktop {
+  @apply z-[999999] border-b-2 border-primary backdrop-blur-[10px] bg-opacity-20 bg-white flex justify-center items-center w-full h-navbarHeight pt-[0.7em] pb-[0.7em] fixed top-0;
+}
+
+.navbar-wrapper {
+  @apply flex justify-between items-center w-[85%] max-w-none text-2xl;
+}
+
+.contact-button {
+  @apply  text-white font-bold bg-primary pt-4 px-10 flex justify-center items-center rounded-lg;
+}
+
+.navbar-menu {
+  @apply flex justify-center items-center gap-8 font-goldman;
+}
+
+.navbar-menu a {
+  @apply text-[#92d05099]
+}
+
+.navbar-menu a.active {
+  @apply text-primary
+}
+
+/* END OF NAVBAR */
+
+/* FOOTER */
+
+.footer-container {
+@apply bg-empaiBlack w-full
+}
+
+.footer{
+  @apply flex justify-center items-center bg-empaiBlack max-w-full overflow-x-hidden text-white py-20 px-12;
+}
+
+.footer-left {
+  @apply flex flex-col justify-between items-stretch min-h-56 max-w-64 mx-auto
+}
+
+.footer-right{
+  @apply flex justify-around items-stretch h-full mx-auto gap-8
+}
+
+.footer-menu {
+  @apply flex flex-col gap-8
+}
+
+.footer-menu-item {
+  @apply text-base text-white underline
+}
+
+.footer-menu-title {
+  @apply font-goldman text-primary font-bold text-xl
+}
+
+/* END OF FOOTER */
+
+/* IMPRIT PAGE */
+
+.legal-content {
+ @apply max-w-3xl mx-auto p-5
+}
+
+.legal-content h1 {
+  @apply text-4xl mb-6
+}
+
+.legal-content h2 {
+  @apply text-2xl mt-8 mb-4
+}
+
+.legal-content p {
+  @apply mb-4
+}
+
+.legal-content a {
+  @apply text-primary underline
+}
+
+.legal-content ul {
+  @apply ml-6 mb-4
+}
+
+/* END OF IMPRINT */
+
+/* Language Switcher */
+
+.language-switcher {
+ @apply relative inline-block
+}
+
+.language-button {
+  @apply flex items-center bg-transparent border-none cursor-pointer py-2 px-4 text-base
+}
+
+.language-button img {
+  @apply w-8 h-8
+}
+
+.arrow-icon {
+  @apply w-4 h-4 ml-2
+}
+
+.language-dropdown {
+ @apply hidden absolute top-full right-0 bg-white border border-gray-300 rounded shadow-sm z-50 min-w-[175px]
+}
+
+.language-option {
+  @apply flex items-center gap-2 py-2 px-4 no-underline text-primary whitespace-nowrap 
+}
+
+.language-option:hover {
+  @apply bg-primary-100
+}
+
+/* END OF LANGUAGE SWITCHER */
+
+/* COOKIE */
+
+.cookie-container {
+  @apply flex justify-end items-center pr-4
+}
+
+.cookie-button {
+  @apply py-4 px-8 bg-white text-black border border-black rounded cursor-pointer my-6 flex items-center
+}
+
+.cookie-button button {
+  @apply text-sm
+}
+
+.cookie-icon {
+  @apply w-5 h-5 mr-2
+}
+
+/* END OF COOKIE */
+
+/* HOME PAGE HEADER */
+
+.modules-container {
+  @apply h-[calc(100vh-80px)] flex flex-col justify-center items-center text-center max-w-full overflow-x-hidden p-4 
+  /* bg-[url(/assets/images/bg-image.png)] bg-cover bg-no-repeat bg-[50%] */
+
+}
+
+.home-main-text{
+  @apply text-black font-goldman text-4xl
+}
+
+.home-sub-text {
+  @apply flex flex-col gap-1 text-2xl
+}
+
+.modules-container > div.modules-container-buttons {
+  @apply flex gap-4 justify-center flex-wrap my-4
+}
+
+.modules-container button {
+ @apply py-4 px-6 bg-white text-black rounded border border-black text-base cursor-pointer
+}
+
+.modules-container-buttons button {
+   @apply py-1.5 px-3 text-black font-goldman border border-black rounded text-xl cursor-pointer flex items-center gap-4
+}
+
+.modules-container-buttons button img {
+  @apply w-5 h-5
+}
+
+.modules-container button:hover {
+  @apply bg-slate-200
+}
+
+/* END OF HOME HEADER */
+
+
+/* MODULES PAGE */
+
+.module {
+  @apply max-w-4xl mx-auto py-8 px-4
+}
+
+.module-header {
+  @apply flex items-center gap-4 mb-8
+}
+
+h1.module-title {
+  @apply text-6xl font-goldman text-black
+}
+
+h2.module-subtitle {
+  @apply text-4xl font-goldman text-black mb-2
+}
+
+.module-icon {
+  @apply w-12 h-12
+}
+
+.module-introduction {
+  @apply text-2xl text-darkGrey mb-8
+}
+
+.module-feature-container{
+  @apply my-8
+}
+
+.feature {
+  @apply mb-12
+}
+
+.feature-image-container {
+  @apply flex justify-center
+
+}
+
+.feature-image {
+  @apply h-auto mb-4 rounded-lg max-w-[90%]
+
+
+}
+
+.feature h3 {
+  @apply text-2xl font-goldman text-darkGrey mb-2 font-bold
+}
+
+.feature p {
+  @apply text-2xl text-darkGrey
+}
+
+.related-modules {
+  @apply flex justify-center gap-4 mb-[8rem]
+
+}
+
+.module-button {
+  @apply min-w-[230px] flex flex-col items-center gap-8 py-8 px-12 bg-empaiBlack text-white rounded text-center 
+}
+
+.module-button:hover {
+  @apply opacity-90
+}
+
+.module-button-icon {
+  @apply w-12 h-12
+}
+
+.module-button-span {
+  @apply text-2xl font-bold
+}
+
+.module-arrow-icon{
+  @apply bg-primary rounded p-2
+}
+
+/* END OF MODULES */
+
+/* HOME PAGE FEATURES */
+
+.feature-item {
+  @apply flex justify-center mb-16 pb-16 relative
+}
+
+/* Add a separator between items */
+.feature-item:not(:last-child)::after {
+  content: '';
+
+  @apply absolute bottom-0 left-[10%] w-[80%] h-[4px] bg-primary shadow-xl opacity-40 rounded-md
+}
+
+/* Odd Items: Image on the right */
+.feature-item.odd {
+  @apply flex-row-reverse
+}
+
+/* Even Items: Image on the left */
+.feature-item.even {
+  @apply flex-row
+}
+
+.feature-image {
+  @apply w-full h-auto max-h-[700px] max-w-[700px]
+}
+
+/* Content Column */
+.content-column {
+  @apply flex-1 flex flex-col gap-16
+}
+
+/* Add padding-right to odd content-column */
+.feature-item.odd .content-column {
+  @apply pl-60 pr-20
+}
+
+/* Add padding-left to even content-column */
+.feature-item.even .content-column {
+  @apply pr-60 pl-20
+}
+
+/* Icon */
+.icon img {
+  @apply h-auto w-24
+}
+
+/* Feature Name */
+.featurename {
+ @apply font-goldman font-bold text-7xl
+}
+
+/* Feature Subtitle */
+.featuresubtitle {
+  @apply text-black font-bold text-2xl
+}
+
+/* Feature Description */
+.featuredescription {
+  @apply text-black text-2xl max-w-xl
+}
+
+/* Feature Button */
+.featurebutton {
+  @apply flex justify-center items-center py-3 px-6 bg-primary text-white border-r-4 cursor-pointer self-start rounded-lg font-bold
+}
+
+/* END OF HOME PAGE FEATURES */
+
+/* BLOG */
+
+
+
+}

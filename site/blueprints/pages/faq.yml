@@ -1,0 +1,31 @@
+# site/blueprints/faq.yml
+title: FAQ Page
+fields:
+  title:
+    label: Title
+    type: text
+    required: true
+  introduction:
+    label: Introduction
+    type: markdown
+    required: true
+  sections:
+    label: FAQ Sections
+    type: structure
+    fields:
+      sectionTitle:
+        label: Section Title
+        type: text
+        required: true
+      questions:
+        label: Questions
+        type: structure
+        fields:
+          question:
+            label: Question
+            type: text
+            required: true
+          answer:
+            label: Answer
+            type: textarea
+            required: true

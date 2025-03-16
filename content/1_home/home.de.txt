@@ -1,0 +1,84 @@
+Title: Startseite
+
+----
+
+Maintext: Mit vier Modulen zum smarten Verbrauch.
+
+----
+
+Subtext1: Maximale Transparenz,
+
+----
+
+Subtext2: Minimale Energiekosten!
+
+----
+
+Buttons:
+
+- 
+  icon: icon4
+  buttontext: Energy Management
+- 
+  icon: icon3
+  buttontext: AI-powered Forecasting
+- 
+  icon: icon2
+  buttontext: Carbon Management
+- 
+  icon: icon1
+  buttontext: Energy Market
+
+----
+
+Features:
+
+- 
+  icon: icon4
+  featurename: Energy Management
+  featuresubtitle: 'Energy Monitoring - Energy Reports - Early Warning System'
+  featuredescription: >
+    Monitor your energy consumption,
+    generate energy reports, and benefit
+    from the integrated early warning
+    system.
+  featurebuttontext: More about our Energy Management
+  images:
+    - file://OQBStEaDUy15dBKC
+- 
+  icon: icon3
+  featurename: AI-powered Forecasting
+  featuresubtitle: 'Consumption Forecasting - Profiling - Process Optimization'
+  featuredescription: >
+    Optimize your operations with AI-powered
+    consumption forecasting.
+  featurebuttontext: More about our AI-powered Forecasting
+  images:
+    - file://Y0y8Qwe4KpdDzFOo
+- 
+  icon: icon2
+  featurename: Carbon Management
+  featuresubtitle: 'Carbon Emission Analysis - CO2 Consumption Optimization'
+  featuredescription: >
+    Manage your CO2 consumption and benefit
+    from empAI’s automated carbon
+    certificate generation.
+  featurebuttontext: More about our Carbon Management
+  images:
+    - file://qhkK9jVtXwvCodhl
+- 
+  icon: icon1
+  featurename: Energy Market
+  featuresubtitle: 'Market Simulation - Profitability Analysis - Contract Management'
+  featuredescription: >
+    Stay in control of your energy costs
+    with tranche market simulation and
+    integrated electricity contract
+    management.
+  featurebuttontext: More about our Energy Market Module
+  images:
+    - file://OGG8zcpcZ4Eo0KFb
+
+----
+
+Uuid: WoSTElsRWrgPzDKG

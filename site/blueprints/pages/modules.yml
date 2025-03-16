@@ -1,0 +1,42 @@
+title: Module
+fields:
+  icon:
+    label: Icon
+    type: select
+    options:
+      icon1: Icon 1
+      icon2: Icon 2
+      icon3: Icon 3
+      icon4: Icon 4
+  title:
+    label: Title
+    type: text
+    required: true
+  moduleName:
+    label: Module Name
+    type: text
+    required: true  
+  introduction:
+    label: Introduction
+    type: markdown
+    required: true
+  features:
+    label: Die Funktionen im Überblick
+    type: structure
+    fields:
+      images:
+        type: files
+        layout: cards
+        template: image
+        info: "{{ file.dimensions }}"
+        image:
+          ratio: 5/4
+          cover: true
+        min: 1
+        size: small
+      subtitle:
+        label: Subtitle
+        type: text
+      description:
+        label: Description
+        type: markdown
