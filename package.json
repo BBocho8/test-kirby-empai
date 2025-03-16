@@ -5,6 +5,7 @@
 	"description": "<img src=\"http://getkirby.com/assets/images/github/plainkit.jpg\" width=\"300\">",
 	"main": "index.js",
 	"scripts": {
+		"start:dev": "concurrently \"php -S localhost:8000 kirby/router.php\" \"npx tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/index.css --watch\"",
 		"watch": "npx tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/index.css --watch",
 		"build": "npx tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/index.css --minify"
 	},
@@ -13,6 +14,7 @@
 	"license": "ISC",
 	"devDependencies": {
 		"@tailwindcss/typography": "^0.5.16",
+		"concurrently": "^9.1.2",
 		"tailwindcss": "^3.4.17"
 	}
 }
