@@ -1,8 +1,6 @@
 <!-- site/templates/blog.php -->
 <?php snippet('header') ?>
 
-
-
 <main class="py-12 bg-gray-50">
   <div class="container max-w-6xl px-4 mx-auto">
     <h1 class="mb-8 text-4xl text-center font-goldman"><?= t('blog.title') ?></h1>
