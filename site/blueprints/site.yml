@@ -5,7 +5,7 @@ sections:
     type: pages
   modules:
     type: pages
-    # layout: cards
+    layout: cards
     parent: kirby.page("modules")
     template: modules
     headline: Modules
@@ -18,8 +18,8 @@ sections:
       - introduction
       - features
     sortable: true
-    limit: 10
-    size: small
+    limit: 4
+    size: medium
   blogposts:
     type: pages
     parent: kirby.page("blog")

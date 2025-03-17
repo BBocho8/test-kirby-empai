@@ -82,3 +82,82 @@ fields:
         type: text
         required: true
         placeholder: Enter the corresponding module ID (from the URL).
+  Advantages:
+    title: Experience the Difference Section
+    label: Advantages
+    type: structure
+    fields:
+      sectionTitle:
+        label: Section Title
+        type: text
+        default: "Experience the difference with empAI"
+        required: true
+      leftTitle:
+        label: Left Box Title
+        type: text
+        default: "Energy Management with empAI"
+        required: true
+      leftAdvantages:
+        label: Left Box Advantages
+        type: structure
+        fields:
+          advantage:
+            label: Advantage
+            type: text
+            required: true
+      leftButtonText:
+        label: Left Button Text
+        type: text
+        default: "Start working with empAI now"
+        required: true
+      leftButtonLink:
+        label: Left Button Link
+        type: url
+      rightTitle:
+        label: Right Box Title
+        type: text
+        default: "Energy Management without empAI"
+        required: true
+      rightAdvantages:
+        label: Right Box Disadvantages
+        type: structure
+        fields:
+          disadvantage:
+            label: Disadvantage
+            type: text
+            required: true
+      rightButtonText:
+        label: Right Button Text
+        type: text
+        default: "Miss out on all potential savings"
+        required: true
+      rightButtonLink:
+        label: Right Button Link
+        type: url
+  Compliance:
+    title: Experience the Difference Section
+    label: ISO Compliance
+    type: structure
+    fields:
+      IsoContent:
+        label: Content
+        type: markdown
+        required: true
+      Logo: 
+        label: Logo
+        type: files
+        layout: cards
+        template: image
+        info: "{{ file.dimensions }}"
+        image:
+          ratio: 1/1
+          cover: true
+        max: 1
+        size: small
+      ButtonText:
+        label: Button Text
+        type: text
+        required: true
+        placeholder: Enter the button text.
+
+        

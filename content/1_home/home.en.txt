@@ -6,7 +6,7 @@ Maintext: 4 Modules for Smarter Consumption.
 
 ----
 
-Subtext1: Maximum Transparency, 
+Subtext1: Maximum Transparency,
 
 ----
 
@@ -82,6 +82,82 @@ Features:
   images:
     - file://OGG8zcpcZ4Eo0KFb
   moduleid: modules-energiemarkt
+
+----
+
+Advantages:
+
+- 
+  sectiontitle: Experience the difference with empAI
+  lefttitle: 'Energy Management with '
+  leftadvantages:
+    - 
+      advantage: Improve energy efficiency
+    - 
+      advantage: Smart energy monitoring and management
+    - 
+      advantage: >
+        AI-powered energy consumption
+        forecasting
+    - 
+      advantage: Effortless carbon certificate generation
+    - 
+      advantage: >
+        Reduce costs through process
+        optimization
+    - 
+      advantage: >
+        Cost-effective, intelligent energy
+        purchasing
+  leftbuttontext: More about our Energy Market Module
+  leftbuttonlink: ""
+  righttitle: Energy Management without empAI
+  rightadvantages:
+    - 
+      disadvantage: Current consumption only
+    - 
+      disadvantage: No carbon certificate generation
+    - 
+      disadvantage: No production data integration
+    - 
+      disadvantage: >
+        No optimization of energy purchasing and
+        selling
+    - 
+      disadvantage: Opaque energy management
+    - 
+      disadvantage: Cluttered data analysis
+  rightbuttontext: Miss out on all potential savings
+  rightbuttonlink: ""
+
+----
+
+Compliance:
+
+- 
+  isocontent: |
+    ## ISO 50001 Compliant
+    ### Officially Listed by BAFA
+    
+    Our energy management software is now officially listed on the BAFA list of eligible software solutions for energy management systems. This means that our solution qualifies for German funding programs and helps you reduce energy costs while taking advantage of subsidies.
+    If you deploy empAI as your energy management and prediction solution, you will be eligible of subsidies under Module 3 of the BAFA and subsidized loans by KfW.
+    
+    empAI supports the implementation, maintenance, and improvement of an energy management system in accordance with DIN EN ISO 50001 and hence qualifies for funding programs in many other countries.
+    
+    If you have further questions on how to use empAI in a funding program context, please contact us.
+  logo:
+    - file://pDyHEE8ZVCpXJT5g
+  buttontext: Contact Us
+  content: |
+    ## ISO 50001 Compliant
+    ### Officially Listed by BAFA
+    
+    Our energy management software is now officially listed on the BAFA list of eligible software solutions for energy management systems. This means that our solution qualifies for German funding programs and helps you reduce energy costs while taking advantage of subsidies.
+    If you deploy empAI as your energy management and prediction solution, you will be eligible of subsidies under Module 3 of the BAFA and subsidized loans by KfW.
+    
+    empAI supports the implementation, maintenance, and improvement of an energy management system in accordance with DIN EN ISO 50001 and hence qualifies for funding programs in many other countries.
+    
+    If you have further questions on how to use empAI in a funding program context, please contact us.
 
 ----
 

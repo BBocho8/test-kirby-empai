@@ -59,5 +59,10 @@
   </div>
 <?php endforeach; ?>
 
+<!-- Experience the Difference Section -->
+<?php snippet('sections/experience-difference', ['section' => $page->Advantages()->toStructure()->first()]) ?>
+
+<!-- Experience the Difference Section -->
+<?php snippet('sections/iso-compliance', ['section' => $page->Compliance()->toStructure()->first()]) ?>
 
 <?php snippet('footer') ?>

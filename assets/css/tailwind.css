@@ -293,11 +293,11 @@ h2.module-subtitle {
 }
 
 /* Add a separator between items */
-.feature-item:not(:last-child)::after {
+.feature-item:not(:last-of-type)::after {
   content: '';
-
-  @apply absolute bottom-0 left-[10%] w-[80%] h-[4px] bg-primary shadow-xl opacity-40 rounded-md
+  @apply absolute bottom-0 left-[10%] w-[80%] h-[4px] bg-primary shadow-xl opacity-40 rounded-md;
 }
+
 
 /* Odd Items: Image on the right */
 .feature-item.odd {

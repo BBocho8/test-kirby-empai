@@ -6,7 +6,7 @@ Date: 2025-03-15
 
 ----
 
-Author: Test USer
+Author: Test User
 
 ----
 
@@ -14,11 +14,11 @@ Description: Mit empAI, unserer innovativen KI-Lösung, können Unternehmen ihre
 
 ----
 
-Images: - file://GB6rA96t1fXel2cN
+Category: category2
 
 ----
 
-Category: category2
+Images: - file://GB6rA96t1fXel2cN
 
 ----
 

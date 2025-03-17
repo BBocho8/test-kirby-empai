@@ -1663,7 +1663,7 @@ h2.module-subtitle {
 
 /* Add a separator between items */
 
-.feature-item:not(:last-child)::after {
+.feature-item:not(:last-of-type)::after {
   content: '';
   position: absolute;
   bottom: 0px;
@@ -1676,7 +1676,7 @@ h2.module-subtitle {
   opacity: 0.4;
   --tw-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 20px 25px -5px var(--tw-shadow-color), 0 8px 10px -6px var(--tw-shadow-color);
-  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
 /* Odd Items: Image on the right */
@@ -1838,6 +1838,10 @@ h2.module-subtitle {
   z-index: 999999;
 }
 
+.m-0 {
+  margin: 0px;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -1866,6 +1870,10 @@ h2.module-subtitle {
 .my-8 {
   margin-top: 2rem;
   margin-bottom: 2rem;
+}
+
+.mb-0 {
+  margin-bottom: 0px;
 }
 
 .mb-12 {
@@ -1912,6 +1920,10 @@ h2.module-subtitle {
   margin-right: 0.5rem;
 }
 
+.mt-0 {
+  margin-top: 0px;
+}
+
 .mt-24 {
   margin-top: 6rem;
 }
@@ -1922,6 +1934,21 @@ h2.module-subtitle {
 
 .mt-8 {
   margin-top: 2rem;
+}
+
+.mt-2 {
+  margin-top: 0.5rem;
+}
+
+.mt-4 {
+  margin-top: 1rem;
+}
+
+.line-clamp-3 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
 }
 
 .block {
@@ -1970,6 +1997,10 @@ h2.module-subtitle {
 
 .h-3 {
   height: 0.75rem;
+}
+
+.h-32 {
+  height: 8rem;
 }
 
 .h-4 {
@@ -2064,6 +2095,10 @@ h2.module-subtitle {
   width: 1.25rem;
 }
 
+.w-56 {
+  width: 14rem;
+}
+
 .w-6 {
   width: 1.5rem;
 }
@@ -2090,6 +2125,10 @@ h2.module-subtitle {
 
 .w-full {
   width: 100%;
+}
+
+.w-auto {
+  width: auto;
 }
 
 .min-w-56 {
@@ -2124,6 +2163,10 @@ h2.module-subtitle {
   max-width: 16rem;
 }
 
+.max-w-6xl {
+  max-width: 72rem;
+}
+
 .max-w-\[1200px\] {
   max-width: 1200px;
 }
@@ -2146,6 +2189,18 @@ h2.module-subtitle {
 
 .max-w-xl {
   max-width: 36rem;
+}
+
+.max-w-28 {
+  max-width: 7rem;
+}
+
+.max-w-96 {
+  max-width: 24rem;
+}
+
+.max-w-7xl {
+  max-width: 80rem;
 }
 
 .flex-1 {
@@ -2209,12 +2264,24 @@ h2.module-subtitle {
   flex-wrap: wrap;
 }
 
+.items-start {
+  align-items: flex-start;
+}
+
 .items-center {
   align-items: center;
 }
 
+.items-baseline {
+  align-items: baseline;
+}
+
 .items-stretch {
   align-items: stretch;
+}
+
+.justify-start {
+  justify-content: flex-start;
 }
 
 .justify-end {
@@ -2277,6 +2344,12 @@ h2.module-subtitle {
   margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));
 }
 
+.space-y-4 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-y-reverse: 0;
+  margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse)));
+  margin-bottom: calc(1rem * var(--tw-space-y-reverse));
+}
+
 .self-start {
   align-self: flex-start;
 }
@@ -2329,6 +2402,11 @@ h2.module-subtitle {
   border-style: none;
 }
 
+.border-\[\#FF5630\] {
+  --tw-border-opacity: 1;
+  border-color: rgb(255 86 48 / var(--tw-border-opacity, 1));
+}
+
 .border-black {
   --tw-border-opacity: 1;
   border-color: rgb(0 0 0 / var(--tw-border-opacity, 1));
@@ -2359,9 +2437,19 @@ h2.module-subtitle {
   border-color: rgb(77 121 40 / var(--tw-border-opacity, 1));
 }
 
+.bg-\[\#49525C\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(73 82 92 / var(--tw-bg-opacity, 1));
+}
+
 .bg-black {
   --tw-bg-opacity: 1;
   background-color: rgb(0 0 0 / var(--tw-bg-opacity, 1));
+}
+
+.bg-blue-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(59 130 246 / var(--tw-bg-opacity, 1));
 }
 
 .bg-empaiBlack {
@@ -2392,6 +2480,16 @@ h2.module-subtitle {
 .bg-primary-100 {
   --tw-bg-opacity: 1;
   background-color: rgb(232 245 224 / var(--tw-bg-opacity, 1));
+}
+
+.bg-primary-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(146 208 80 / var(--tw-bg-opacity, 1));
+}
+
+.bg-red-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(239 68 68 / var(--tw-bg-opacity, 1));
 }
 
 .bg-slate-100 {
@@ -2546,6 +2644,11 @@ h2.module-subtitle {
   padding-bottom: 1rem;
 }
 
+.py-40 {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+}
+
 .py-6 {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
@@ -2554,6 +2657,11 @@ h2.module-subtitle {
 .py-8 {
   padding-top: 2rem;
   padding-bottom: 2rem;
+}
+
+.px-2 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 
 .pb-16 {
@@ -2568,8 +2676,16 @@ h2.module-subtitle {
   padding-left: 5rem;
 }
 
+.pl-4 {
+  padding-left: 1rem;
+}
+
 .pl-60 {
   padding-left: 15rem;
+}
+
+.pl-8 {
+  padding-left: 2rem;
 }
 
 .pr-20 {
@@ -2682,6 +2798,10 @@ h2.module-subtitle {
   font-weight: 600;
 }
 
+.capitalize {
+  text-transform: capitalize;
+}
+
 .italic {
   font-style: italic;
 }
@@ -2692,6 +2812,11 @@ h2.module-subtitle {
 
 .text-\[\#92d05099\] {
   color: #92d05099;
+}
+
+.text-\[\#FF5630\] {
+  --tw-text-opacity: 1;
+  color: rgb(255 86 48 / var(--tw-text-opacity, 1));
 }
 
 .text-black {
@@ -2719,6 +2844,11 @@ h2.module-subtitle {
   color: rgb(31 41 55 / var(--tw-text-opacity, 1));
 }
 
+.text-green-500 {
+  --tw-text-opacity: 1;
+  color: rgb(34 197 94 / var(--tw-text-opacity, 1));
+}
+
 .text-primary {
   --tw-text-opacity: 1;
   color: rgb(146 208 80 / var(--tw-text-opacity, 1));
@@ -2732,6 +2862,11 @@ h2.module-subtitle {
 .text-red-400 {
   --tw-text-opacity: 1;
   color: rgb(248 113 113 / var(--tw-text-opacity, 1));
+}
+
+.text-red-500 {
+  --tw-text-opacity: 1;
+  color: rgb(239 68 68 / var(--tw-text-opacity, 1));
 }
 
 .text-red-600 {
@@ -2847,6 +2982,11 @@ h2.module-subtitle {
   background-color: rgb(163 214 131 / var(--tw-bg-opacity, 1));
 }
 
+.hover\:bg-primary-700:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(100 150 53 / var(--tw-bg-opacity, 1));
+}
+
 .hover\:underline:hover {
   text-decoration-line: underline;
 }
@@ -2858,6 +2998,14 @@ h2.module-subtitle {
 .focus\:outline-none:focus {
   outline: 2px solid transparent;
   outline-offset: 2px;
+}
+
+.prose-h2\:mb-0 :is(:where(h2):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  margin-bottom: 0px;
+}
+
+.prose-h2\:mt-0 :is(:where(h2):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  margin-top: 0px;
 }
 
 @media (min-width: 768px) {
