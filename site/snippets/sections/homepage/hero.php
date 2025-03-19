@@ -1,8 +1,8 @@
 <div class="pb-32">
   <div class="flex flex-col items-center justify-center gap-2 h-[calc(100vh-80px)] relative">
     <div class="absolute bg-[url(/assets/images/bg-image.png)] bg-cover bg-no-repeat bg-[100%_200px] w-full h-full"></div>
-    <h1 class="text-center font-goldman text-7xl">Produce more,<br />Consume less.</h1>
-    <p class="text-3xl text-center">AI-Powered Energy Management</br>for Sustainable Efficiency</p>
+    <h1 class="text-center font-goldman text-8xl">Produce more,<br />Consume less.</h1>
+    <p class="text-4xl text-center">AI-Powered Energy Management</br>for Sustainable Efficiency</p>
     <a href="#">
       <button class=" mt-8 flex items-center justify-center px-4 py-2 font-bold bg-transparent border rounded text-[#22C55E] border-[#22C55E] ">
         <span>Request your demo</span>
@@ -20,7 +20,9 @@
 
       <!-- Center Text -->
       <div class="relative flex flex-col items-center justify-center">
-        <p class="font-bold text-black font-goldman text-9xl">+21%</p>
+        <p class="font-bold text-black font-goldman text-9xl">
+          <span id="animated-number">0%</span>
+        </p>
         <p class="text-black text-7xl font-goldman">Efficiency</p>
         <img src="/assets/images/home-hero/icon1.png" class="absolute left-[-5rem] w-24 h-24 bottom-16" alt="">
         <img src="/assets/images/home-hero/icon2.png" class="absolute w-24 h-24 top-1/4 right-[-5rem]" alt="">

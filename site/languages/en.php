@@ -14,7 +14,8 @@ return [
         'blog.zuruck' => 'Back to Blog Overview',
         'blog.readmore' => 'Read More',
         'blog.morearticles' => 'More Blog Articles',
-
+        'blog.next' => 'Next',
+        'blog.previous' => 'Previous'
     ],
-    'url' => NULL,
+    'url' => NULL
 ];

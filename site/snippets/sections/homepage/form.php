@@ -2,7 +2,7 @@
   <div class="flex justify-center max-w-6xl px-8 mx-auto py-36">
 
     <!-- Form - left side -->
-    <div class="w-1/2">
+    <div id="left-div" class="w-1/2">
       <h2 class="text-4xl text-white font-goldman">How much could you save?</h2>
       <p class="pl-2 pr-16 my-2 text-2xl text-white font-extralight">Book your potential analysis now to achieve more while consuming less!</p>
 
@@ -34,7 +34,7 @@
 
     <!-- For - right side -->
 
-    <div class="bg-[#2D3742] border border-primary p-8 rounded w-1/2 flex flex-col gap-2">
+    <div id="right-div" class="bg-[#2D3742] border border-primary p-8 rounded w-1/2 flex flex-col gap-2">
       <div>
         <p class="text-white font-goldman text-8xl">18.5%</p>
         <p class="text-5xl font-goldman text-primary">12.003.389 kwh</p>

@@ -14,6 +14,8 @@ return [
         'blog.zuruck' => 'Zurück zur Blogübersicht',
         'blog.readmore' => 'Weiterlesen',
         'blog.morearticles' => 'Weitere Blogartikel',
+        'blog.next' => 'Weiter',
+        'blog.previous' => 'Zurück'
     ],
-    'url' => NULL,
+    'url' => NULL
 ];

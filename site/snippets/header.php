@@ -7,6 +7,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <title><?= $site->title()->esc() ?> | <?= $page->title()->esc() ?></title>
 
+
   <?= css([
     'assets/fonts/goldman/index.css',
     'assets/fonts/manrope/index.css',

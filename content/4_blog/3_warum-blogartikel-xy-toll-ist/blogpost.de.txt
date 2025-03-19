@@ -14,11 +14,11 @@ Description: Mit empAI, unserer innovativen KI-Lösung, können Unternehmen ihre
 
 ----
 
-Images: - file://JLVDuEx8XPcpMlW5
+Category: product
 
 ----
 
-Category: category1
+Images: - file://JLVDuEx8XPcpMlW5
 
 ----
 
@@ -64,10 +64,6 @@ Excerpt:
 ----
 
 Tags: icon1
-
-----
-
-Uuid: wbQdbV6tgvQyJuzm
 
 ----
 

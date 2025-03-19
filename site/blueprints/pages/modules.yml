@@ -1,0 +1,20 @@
+title: Modules
+
+sections:
+  modules:
+    type: pages
+    layout: cards
+    parent: kirby.page("modules")
+    template: singlemodule
+    headline: Modules
+    empty: No modules yet
+    info: "{{ page.title }}"
+    status: true
+    columns:
+      - icon
+      - title
+      - introduction
+      - features
+    sortable: true
+    limit: 4
+    size: medium

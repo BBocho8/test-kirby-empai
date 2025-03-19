@@ -1,12 +1,12 @@
-Title: Fourth Article
+Title: Enhancing grid reliability through intelligent energy control
 
 ----
 
-Date: 2025-03-15
+Date: 2025-03-19
 
 ----
 
-Author: Bonn Consulting Group
+Author: Bonn Consulting
 
 ----
 
@@ -14,11 +14,11 @@ Description: Mit empAI, unserer innovativen KI-Lösung, können Unternehmen ihre
 
 ----
 
-Images: - file://sDLtBSAG98oRenh7
+Category: product
 
 ----
 
-Category: category4
+Images: - file://VM67JdbRlIRLZTyE
 
 ----
 
@@ -53,4 +53,4 @@ Ein produzierendes Unternehmen nutzte empAI, um den Energieverbrauch in seiner F
 
 ----
 
-Uuid: Nq828XaPNYcU85EG
+Uuid: MbF2PHssJEcN516a

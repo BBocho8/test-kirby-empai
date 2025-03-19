@@ -1,4 +1,4 @@
-Title: Second Article
+Title: Efficient and secure energy solutions powered by empAI
 
 ----
 
@@ -6,7 +6,7 @@ Date: 2025-03-15
 
 ----
 
-Author: Test User
+Author: Bonn Consulting Group
 
 ----
 
@@ -14,11 +14,11 @@ Description: Mit empAI, unserer innovativen KI-Lösung, können Unternehmen ihre
 
 ----
 
-Category: category2
+Category: news
 
 ----
 
-Images: - file://GB6rA96t1fXel2cN
+Images: - file://sDLtBSAG98oRenh7
 
 ----
 
@@ -53,4 +53,4 @@ Ein produzierendes Unternehmen nutzte empAI, um den Energieverbrauch in seiner F
 
 ----
 
-Uuid: ZrsZkPiJwnnRj1uA
+Uuid: Nq828XaPNYcU85EG

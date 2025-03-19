@@ -51,9 +51,6 @@
 
 <?= js([
   'assets/js/language-switcher.js',
-  'assets/css/index.css',
-  'assets/fonts/goldman/index.css',
-  'assets/fonts/manrope/index.css',
   '@auto'
 ]) ?>
 

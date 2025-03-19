@@ -1,0 +1,19 @@
+title: Site
+
+sections:
+  blogposts:
+    type: pages
+    parent: kirby.page("blog")
+    template: blogpost
+    headline: Blog Posts
+    empty: No blog posts yet
+    status: true
+    columns:
+      - title
+      - date
+      - author
+      - description
+      - category
+    sortable: true
+    limit: 10
+    size: small

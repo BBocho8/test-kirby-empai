@@ -1,4 +1,4 @@
-Title: Third Article
+Title: Reliable and safe energy management with empAI
 
 ----
 
@@ -6,7 +6,7 @@ Date: 2025-03-15
 
 ----
 
-Author: Bonn Consulting Group
+Author: Test User
 
 ----
 
@@ -14,11 +14,11 @@ Description: Mit empAI, unserer innovativen KI-Lösung, können Unternehmen ihre
 
 ----
 
-Images: - file://0Jwfj78vzucMC3gx
+Category: news
 
 ----
 
-Category: category3
+Images: - file://GB6rA96t1fXel2cN
 
 ----
 
@@ -53,4 +53,4 @@ Ein produzierendes Unternehmen nutzte empAI, um den Energieverbrauch in seiner F
 
 ----
 
-Uuid: bDUrDDATcdCgxlbT
+Uuid: ZrsZkPiJwnnRj1uA

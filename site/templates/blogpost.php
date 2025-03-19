@@ -32,7 +32,7 @@
 
 <!-- Related Blog Posts Grid -->
 <section class="py-12 bg-gray-50">
-  <div class="container px-4 mx-auto">
+  <div class="container max-w-6xl px-4 mx-auto">
     <h2 class="mb-8 text-3xl text-center font-goldman"><?= t("blog.morearticles") ?></h2>
     <div class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
       <?php
@@ -48,7 +48,7 @@
           <?php endif ?>
           <div class="p-6">
             <h3 class="mb-2 text-xl font-semibold"><?= $post->title() ?></h3>
-            <p class="mb-4 text-gray-600"><?= $post->description() ?></p>
+            <p class="mb-4 text-gray-600 line-clamp-5"><?= $post->description() ?></p>
             <a href="<?= $post->url() ?>" class="font-semibold text-primary hover:underline"><?= t("blog.readmore") ?> →</a>
           </div>
         </div>

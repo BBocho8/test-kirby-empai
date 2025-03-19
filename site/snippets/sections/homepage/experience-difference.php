@@ -3,7 +3,7 @@
     <h2 class="mb-16 text-4xl text-center text-white font-goldman"><?= $section->sectiontitle() ?></h2>
     <div class="grid grid-cols-1 gap-12 md:grid-cols-2">
       <!-- Left Box -->
-      <div class="p-6 bg-[#49525C] rounded-lg shadow-md border border-primary text-white">
+      <div id="left-box" class="p-6 bg-[#49525C] rounded-lg shadow-md border border-primary text-white">
         <div class="flex items-center gap-2 mb-4">
 
           <h3 class="text-2xl font-goldman"><?= $section->lefttitle() ?>
@@ -32,7 +32,7 @@
       </div>
 
       <!-- Right Box -->
-      <div class="p-6 text-white bg-transparent rounded-lg ">
+      <div id="right-box" class="p-6 text-white bg-transparent rounded-lg ">
         <h3 class="mb-4 text-2xl font-goldman"><?= $section->righttitle() ?></h3>
         <ul class="space-y-4">
           <?php foreach ($section->rightadvantages()->toStructure() as $disadvantage): ?>
