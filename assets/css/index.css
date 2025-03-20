@@ -1351,7 +1351,7 @@ body {
   right: 0px;
   z-index: 50;
   display: none;
-  min-width: 175px;
+  min-width: 180px;
   border-radius: 0.25rem;
   border-width: 1px;
   --tw-border-opacity: 1;
@@ -2391,8 +2391,8 @@ h2.module-subtitle {
   min-width: 15rem;
 }
 
-.min-w-\[175px\] {
-  min-width: 175px;
+.min-w-\[180px\] {
+  min-width: 180px;
 }
 
 .min-w-\[230px\] {

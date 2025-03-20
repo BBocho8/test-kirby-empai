@@ -1,0 +1,200 @@
+Title: Home
+
+----
+
+Herotitle: Produire Plus,<br />Consommer Moins
+
+----
+
+Herosubtitle: La gestion de l'énergie par l'IA</br>pour une efficacité durable
+
+----
+
+Herobuttontext: Demandez votre démo
+
+----
+
+Maintextmodules: 4 modules pour une consommation plus intelligente.
+
+----
+
+Subtext1modules: Transparence maximale,
+
+----
+
+Subtext2modules: Des coûts énergétiques minimes !
+
+----
+
+Empaiintro:
+
+est un <span class="border-b-4 border-b-[#92D050] rounded">système de gestion de l'énergie</span> et modulaire.</br>
+       Il offre une surveillance à 360° et des prévisions <span class="border-b-4 border-b-[#92D050] rounded">basées sur l'IA</span> pour</br>
+      optimiser <span class="border-b-4 border-b-[#92D050] rounded">l'efficacité</span> et la durabilité.
+
+----
+
+Form:
+
+- 
+  sectiontitle: How much could you save?
+  sectionsubtitle: >
+    Book your potential analysis now to
+    achieve more while consuming less!
+  input1: Your Company Name
+  input2: >
+    Your annual electricity consumption (in
+    kWh)
+  input3: Your Industry
+  leftbuttontext: Discover your savings potential now
+  rightboxmainnumber: '18.5%'
+  rightboxsubnumber: 12.003.389 kwh
+  rightboxdescription: 'Equivalent to <span class="font-bold">€987.726</span> based on</br>the current market electricity</br>price of €82.29/MWh'
+  rightbuttontext: Ask for a personalized demo
+
+----
+
+Buttons:
+
+- 
+  icon: icon4
+  buttontext: Energy Management
+- 
+  icon: icon3
+  buttontext: AI-powered Forecasting
+- 
+  icon: icon2
+  buttontext: Carbon Management
+- 
+  icon: icon1
+  buttontext: Energy Market
+
+----
+
+Features:
+
+- 
+  icon: icon4
+  featurename: Energy Management
+  featuresubtitle: 'Energy Monitoring - Energy Reports - Early Warning System'
+  featuredescription: >
+    Monitor your energy consumption,
+    generate energy reports, and benefit
+    from the integrated early warning
+    system.
+  featurebuttontext: More about our Energy Management
+  images:
+    - file://OQBStEaDUy15dBKC
+  moduleid: modules-energiemanagement
+- 
+  icon: icon3
+  featurename: AI-powered Forecasting
+  featuresubtitle: 'Consumption Forecasting - Profiling - Process Optimization'
+  featuredescription: >
+    Optimize your operations with AI-powered
+    consumption forecasting.
+  featurebuttontext: More about our AI-powered Forecasting
+  images:
+    - file://Y0y8Qwe4KpdDzFOo
+  moduleid: modules-ki-basierte-vorhersagen
+- 
+  icon: icon2
+  featurename: Carbon Management
+  featuresubtitle: 'Carbon Emission Analysis - CO2 Consumption Optimization'
+  featuredescription: >
+    Manage your CO2 consumption and benefit
+    from empAI’s automated carbon
+    certificate generation.
+  featurebuttontext: More about our Carbon Management
+  images:
+    - file://qhkK9jVtXwvCodhl
+  moduleid: modules-co2-management
+- 
+  icon: icon1
+  featurename: Energy Market
+  featuresubtitle: 'Market Simulation - Profitability Analysis - Contract Management'
+  featuredescription: >
+    Stay in control of your energy costs
+    with tranche market simulation and
+    integrated electricity contract
+    management.
+  featurebuttontext: More about our Energy Market Module
+  images:
+    - file://OGG8zcpcZ4Eo0KFb
+  moduleid: modules-energiemarkt
+
+----
+
+Advantages:
+
+- 
+  sectiontitle: Experience the difference with empAI
+  lefttitle: 'Energy Management with '
+  leftadvantages:
+    - 
+      advantage: Improve energy efficiency
+    - 
+      advantage: Smart energy monitoring and management
+    - 
+      advantage: >
+        AI-powered energy consumption
+        forecasting
+    - 
+      advantage: Effortless carbon certificate generation
+    - 
+      advantage: >
+        Reduce costs through process
+        optimization
+    - 
+      advantage: >
+        Cost-effective, intelligent energy
+        purchasing
+  leftbuttontext: More about our Energy Market Module
+  leftbuttonlink: ""
+  righttitle: Energy Management without empAI
+  rightadvantages:
+    - 
+      disadvantage: Current consumption only
+    - 
+      disadvantage: No carbon certificate generation
+    - 
+      disadvantage: No production data integration
+    - 
+      disadvantage: >
+        No optimization of energy purchasing and
+        selling
+    - 
+      disadvantage: Opaque energy management
+    - 
+      disadvantage: Cluttered data analysis
+  rightbuttontext: Miss out on all potential savings
+  rightbuttonlink: ""
+
+----
+
+Compliance:
+
+- 
+  isocontent: |
+    ## ISO 50001 Compliant
+    ### Officially Listed by BAFA
+    
+    Our energy management software is now officially listed on the BAFA list of eligible software solutions for energy management systems. This means that our solution qualifies for German funding programs and helps you reduce energy costs while taking advantage of subsidies.
+    If you deploy empAI as your energy management and prediction solution, you will be eligible of subsidies under Module 3 of the BAFA and subsidized loans by KfW.
+    
+    empAI supports the implementation, maintenance, and improvement of an energy management system in accordance with DIN EN ISO 50001 and hence qualifies for funding programs in many other countries.
+    
+    If you have further questions on how to use empAI in a funding program context, please contact us.
+  logo:
+    - file://pDyHEE8ZVCpXJT5g
+  buttontext: Contact Us
+  content: |
+    ## ISO 50001 Compliant
+    ### Officially Listed by BAFA
+    
+    Our energy management software is now officially listed on the BAFA list of eligible software solutions for energy management systems. This means that our solution qualifies for German funding programs and helps you reduce energy costs while taking advantage of subsidies.
+    If you deploy empAI as your energy management and prediction solution, you will be eligible of subsidies under Module 3 of the BAFA and subsidized loans by KfW.
+    
+    empAI supports the implementation, maintenance, and improvement of an energy management system in accordance with DIN EN ISO 50001 and hence qualifies for funding programs in many other countries.
+    
+    If you have further questions on how to use empAI in a funding program context, please contact us.
