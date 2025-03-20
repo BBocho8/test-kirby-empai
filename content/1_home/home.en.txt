@@ -2,15 +2,55 @@ Title: Home
 
 ----
 
-Maintext: 4 Modules for Smarter Consumption.
+Herotitle: Produce more,<br />Consume less
 
 ----
 
-Subtext1: Maximum Transparency,
+Herosubtitle: AI-Powered Energy Management</br>for Sustainable Efficiency
 
 ----
 
-Subtext2: Minimal Energy Costs!
+Herobuttontext: Request your demo
+
+----
+
+Maintextmodules: 4 Modules for Smarter Consumption.
+
+----
+
+Subtext1modules: Maximum Transparency,
+
+----
+
+Subtext2modules: Minimal Energy Costs!
+
+----
+
+Empaiintro:
+
+is a smart, modular <span class="border-b-4 border-b-[#92D050] rounded">energy management system.</span></br>
+      It provides 360° monitoring and <span class="border-b-4 border-b-[#92D050] rounded">AI-driven</span> forecasts to</br>
+      optimize <span class="border-b-4 border-b-[#92D050] rounded">efficiency</span> and sustainability.
+
+----
+
+Form:
+
+- 
+  sectiontitle: How much could you save?
+  sectionsubtitle: >
+    Book your potential analysis now to
+    achieve more while consuming less!
+  input1: Your Company Name
+  input2: >
+    Your annual electricity consumption (in
+    kWh)
+  input3: Your Industry
+  leftbuttontext: Discover your savings potential now
+  rightboxmainnumber: '18.5%'
+  rightboxsubnumber: 12.003.389 kwh
+  rightboxdescription: 'Equivalent to <span class="font-bold">€987.726</span> based on</br>the current market electricity</br>price of €82.29/MWh'
+  rightbuttontext: Ask for a personalized demo
 
 ----
 

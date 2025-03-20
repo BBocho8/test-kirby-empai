@@ -1,16 +1,55 @@
-Title: Startseite
+Title: Home
 
 ----
 
-Maintext: Mit vier Modulen zum smarten Verbrauch.
+Herotitle: Erreichen Sie mehr,<br />verbrauchen Sie weniger.
 
 ----
 
-Subtext1: Maximale Transparenz,
+Herosubtitle: KI-gestütztes, intelligentes Energiemanagement
 
 ----
 
-Subtext2: Minimale Energiekosten!
+Herobuttontext: Jetzt Demo vereinbaren
+
+----
+
+Maintextmodules: Mit vier Modulen zum smarten Verbrauch.
+
+----
+
+Subtext1modules: Maximale Transparenz,
+
+----
+
+Subtext2modules: Minimale Energiekosten!
+
+----
+
+Empaiintro:
+
+ist ein intelligentes, modulares <span class="border-b-4 border-b-[#92D050] rounded">Energiemanagementsystem.</span></br>
+      Es bietet 360°-Überwachung und <span class="border-b-4 border-b-[#92D050] rounded">KI-gesteuerte </span> Prognosen zur</br>
+      Optimierung von <span class="border-b-4 border-b-[#92D050] rounded">Effizienz </span> und Nachhaltigkeit.
+
+----
+
+Form:
+
+- 
+  sectiontitle: Wie viel können Sie sparen?
+  sectionsubtitle: >
+    Buchen Sie jetzt Ihre Potenzialanalyse,
+    um mehr zu erreichen und weniger zu
+    verbrauchen!
+  input1: Ihr Firmenname
+  input2: Ihr jährlicher Stromverbrauch (in kWh)
+  input3: Ihre Branche
+  leftbuttontext: Entdecken Sie jetzt Ihr Sparpotenzial
+  rightboxmainnumber: '18.5%'
+  rightboxsubnumber: 12.003.389 kwh
+  rightboxdescription: 'Entspricht <span class="font-bold">€987.726</span> auf der Grundlage</br>des aktuellen Marktstrompreises</br>von 82,29 €/MWh'
+  rightbuttontext: Fordern Sie eine personalisierte Demo an
 
 ----
 
@@ -18,16 +57,16 @@ Buttons:
 
 - 
   icon: icon4
-  buttontext: Energy Management
+  buttontext: Energiemanagement
 - 
   icon: icon3
-  buttontext: AI-powered Forecasting
+  buttontext: KI-gestützte Prognosen
 - 
   icon: icon2
-  buttontext: Carbon Management
+  buttontext: Kohlenstoff-Management
 - 
   icon: icon1
-  buttontext: Energy Market
+  buttontext: Energiemarkt
 
 ----
 
@@ -35,50 +74,135 @@ Features:
 
 - 
   icon: icon4
-  featurename: Energy Management
-  featuresubtitle: 'Energy Monitoring - Energy Reports - Early Warning System'
+  featurename: Energiemanagement
+  featuresubtitle: 'Energieüberwachung - Energieberichte - Frühwarnsystem'
   featuredescription: >
-    Monitor your energy consumption,
-    generate energy reports, and benefit
-    from the integrated early warning
-    system.
-  featurebuttontext: More about our Energy Management
+    Überwachen Sie Ihren Energieverbrauch,
+    erstellen Sie Energieberichte und
+    profitieren Sie von dem integrierten
+    Frühwarnsystem.
+  featurebuttontext: Mehr über unser Energiemanagement
   images:
     - file://OQBStEaDUy15dBKC
+  moduleid: modules-energiemanagement
 - 
   icon: icon3
-  featurename: AI-powered Forecasting
-  featuresubtitle: 'Consumption Forecasting - Profiling - Process Optimization'
+  featurename: KI-gestützte Prognosen
+  featuresubtitle: 'Verbrauchsprognose - Profiling - Prozessoptimierung'
   featuredescription: >
-    Optimize your operations with AI-powered
-    consumption forecasting.
-  featurebuttontext: More about our AI-powered Forecasting
+    Optimieren Sie Ihre Abläufe mit
+    KI-gestützter Verbrauchsprognose.
+  featurebuttontext: >
+    Mehr über unsere KI-gestützte
+    Vorhersage
   images:
     - file://Y0y8Qwe4KpdDzFOo
+  moduleid: modules-ki-basierte-vorhersagen
 - 
   icon: icon2
-  featurename: Carbon Management
-  featuresubtitle: 'Carbon Emission Analysis - CO2 Consumption Optimization'
+  featurename: Kohlenstoff-Management
+  featuresubtitle: 'Analyse der Kohlenstoffemissionen - Optimierung des CO2-Verbrauchs'
   featuredescription: >
-    Manage your CO2 consumption and benefit
-    from empAI’s automated carbon
-    certificate generation.
-  featurebuttontext: More about our Carbon Management
+    Verwalten Sie Ihren CO2-Verbrauch und
+    profitieren Sie von der automatischen
+    Generierung von CO2-Zertifikaten durch
+    empAI.
+  featurebuttontext: Mehr über unser Carbon Management
   images:
     - file://qhkK9jVtXwvCodhl
+  moduleid: modules-co2-management
 - 
   icon: icon1
-  featurename: Energy Market
-  featuresubtitle: 'Market Simulation - Profitability Analysis - Contract Management'
+  featurename: Energiemarkt
+  featuresubtitle: 'Marktsimulation - Rentabilitätsanalyse - Vertragsmanagement'
   featuredescription: >
-    Stay in control of your energy costs
-    with tranche market simulation and
-    integrated electricity contract
-    management.
-  featurebuttontext: More about our Energy Market Module
+    Behalten Sie die Kontrolle über Ihre
+    Energiekosten mit
+    Tranchenmarktsimulation und integriertem
+    Stromvertragsmanagement.
+  featurebuttontext: Mehr über unser Energiemarktmodul
   images:
     - file://OGG8zcpcZ4Eo0KFb
+  moduleid: modules-energiemarkt
 
 ----
 
-Uuid: WoSTElsRWrgPzDKG
+Advantages:
+
+- 
+  sectiontitle: Erleben Sie den Unterschied mit empAI
+  lefttitle: 'Energiemanagement mit '
+  leftadvantages:
+    - 
+      advantage: Verbesserung der Energieeffizienz
+    - 
+      advantage: >
+        Intelligente Energieüberwachung und
+        -verwaltung
+    - 
+      advantage: KI-gestützte Energieverbrauchsprognose
+    - 
+      advantage: >
+        Mühelose Erstellung von
+        Kohlenstoffzertifikaten
+    - 
+      advantage: >
+        Kostenreduzierung durch
+        Prozessoptimierung
+    - 
+      advantage: >
+        Kostengünstiger, intelligenter
+        Energieeinkauf
+  leftbuttontext: Mehr über unser Energiemarktmodul
+  leftbuttonlink: ""
+  righttitle: Energiemanagement ohne empAI
+  rightadvantages:
+    - 
+      disadvantage: Nur Stromverbrauch
+    - 
+      disadvantage: >
+        Keine Generierung von
+        Kohlenstoffzertifikaten
+    - 
+      disadvantage: Keine Integration von Produktionsdaten
+    - 
+      disadvantage: >
+        Keine Optimierung von Energieeinkauf und
+        -verkauf
+    - 
+      disadvantage: Undurchsichtiges Energiemanagement
+    - 
+      disadvantage: Unübersichtliche Datenanalyse
+  rightbuttontext: >
+    Verpassen Sie alle potenziellen
+    Einsparungen
+  rightbuttonlink: ""
+
+----
+
+Compliance:
+
+- 
+  isocontent: |
+    ## ISO 50001 Compliant
+    ### Offiziell vom BAFA gelistet
+    
+    Unsere Energiemanagement-Software ist jetzt offiziell auf der BAFA-Liste der förderfähigen Softwarelösungen für Energiemanagementsysteme aufgeführt. Das bedeutet, dass unsere Lösung für deutsche Förderprogramme qualifiziert ist und Ihnen hilft, Energiekosten zu senken und gleichzeitig Fördermittel in Anspruch zu nehmen.
+    Wenn Sie empAI als Energiemanagement- und Prognoselösung einsetzen, können Sie Zuschüsse nach Modul 3 des BAFA und zinsgünstige Darlehen der KfW in Anspruch nehmen.
+    
+    empAI unterstützt die Einführung, Aufrechterhaltung und Verbesserung eines Energiemanagementsystems nach DIN EN ISO 50001 und qualifiziert sich damit für Förderprogramme in vielen anderen Ländern.
+    
+    Wenn Sie weitere Fragen zum Einsatz von empAI im Rahmen von Förderprogrammen haben, kontaktieren Sie uns bitte.
+  logo:
+    - file://pDyHEE8ZVCpXJT5g
+  buttontext: Contact Us
+  content: |
+    ## ISO 50001 Compliant
+    ### Officially Listed by BAFA
+    
+    Our energy management software is now officially listed on the BAFA list of eligible software solutions for energy management systems. This means that our solution qualifies for German funding programs and helps you reduce energy costs while taking advantage of subsidies.
+    If you deploy empAI as your energy management and prediction solution, you will be eligible of subsidies under Module 3 of the BAFA and subsidized loans by KfW.
+    
+    empAI supports the implementation, maintenance, and improvement of an energy management system in accordance with DIN EN ISO 50001 and hence qualifies for funding programs in many other countries.
+    
+    If you have further questions on how to use empAI in a funding program context, please contact us.

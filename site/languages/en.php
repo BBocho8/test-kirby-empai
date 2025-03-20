@@ -15,7 +15,12 @@ return [
         'blog.readmore' => 'Read More',
         'blog.morearticles' => 'More Blog Articles',
         'blog.next' => 'Next',
-        'blog.previous' => 'Previous'
+        'blog.previous' => 'Previous',
+        'hero.efficiency' => 'Efficiency',
+        'contact.jetztAnfragen' => 'Contact Us Now',
+        'contact.produceMore' => 'Produce More',
+        'contact.consumeLess' => 'Consume Less',
+        'contact.contactAnalysis' => 'Contact us for a potential analysis.'
     ],
     'url' => NULL
 ];

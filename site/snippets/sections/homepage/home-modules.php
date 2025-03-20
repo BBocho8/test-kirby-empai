@@ -1,13 +1,13 @@
 <div class="modules-container">
   <div class="flex flex-col ">
 
-    <p class="home-main-text"><?= $page->MainText() ?></p>
+    <p class="home-main-text"><?= $page->MainTextModules() ?></p>
     <p class="home-sub-text">
       <span>
-        <?= $page->SubText1() ?>
+        <?= $page->SubText1Modules() ?>
       </span>
       <span>
-        <?= $page->SubText2() ?>
+        <?= $page->SubText2Modules() ?>
       </span>
     </p>
   </div>

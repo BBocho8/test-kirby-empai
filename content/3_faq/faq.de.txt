@@ -1,3 +1,394 @@
-Title: FAQ 
+Title: FAQ
 
 ----
+
+Introduction:
+
+Auf dieser Seite haben wir die häufigsten Fragen rund um empAI für Sie zusammengestellt. Sie erhalten so einen klaren und strukturierten Überblick über unsere Plattform, deren Funktionen sowie deren Nutzung.</br> </br> 
+
+Ob Sie gerade erst mit empAI starten oder detaillierte Informationen zu unserer Technologie benötigen – hier finden Sie die Antworten auf Ihre Fragen.</br> </br>
+
+Sollten Ihre Fragen nicht vollständig geklärt werden oder sollten Sie spezifischere Informationen benötigen, steht Ihnen unser Support-Team selbstverständlich gerne zur Verfügung.</br> </br>
+
+----
+
+Sections:
+
+- 
+  sectiontitle: Erste Schritte mit empAI 
+  questions:
+    - 
+      question: Was ist empAI?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: Wie funktioniert empAI? 
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: Wer steht hinter empAI? 
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: Welche Branchen profitieren von empAI?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Wie schnell kann empAI in meinem
+        Unternehmen eingesetzt werden?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Welche Ausstattung benötige ich, um
+        empAI zu nutzen?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+- 
+  sectiontitle: 'Technologie & KI '
+  questions:
+    - 
+      question: >
+        Gibt es Anpassungsmöglichkeiten für
+        mein Unternehmen? 
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: Wie sicher ist die KI von empAI? 
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: Welche KI-Technologien werden genutzt? 
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: Wie wird mit Daten umgegangen? 
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Wie wird die Genauigkeit der KI
+        sichergestellt? 
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Was unterscheidet empAI von anderen
+        KI-Lösungen? 
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: 'Welche Hardware- oder Cloud-Anforderungen gibt es für den Einsatz?'
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+- 
+  sectiontitle: DSGVO und Datenschutz
+  questions:
+    - 
+      question: Ist empAI DSGVO-konform? 
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: Wo wird empAI gehosted? 
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Wo liegen die Nutzerdaten und wie lange
+        werden sie gespeichert?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Können Nutzer ihre Daten löschen
+        lassen?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Welche Sicherheitsmaßnahmen gibt es zum
+        Schutz der Nutzerdaten?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Welche Daten werden von empAI
+        verarbeitet und zu welchem Zweck?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+- 
+  sectiontitle: 'Zugang & Nutzung'
+  questions:
+    - 
+      question: Wie registriere ich mich?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Welche Voraussetzungen gibt es für die
+        Nutzung?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Mit welchen Systemen ist empAI
+        kompatibel?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Wie wird empAI in die bestehende
+        Systemlandschaft integriert?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: Wie läuft die Einführung ab?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Welche Kosten sind mit der Nutzung von
+        empAI verbunden?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Gibt es verschiedene Lizenzmodelle oder
+        Preispakete?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Kann ich mehrere Benutzer innerhalb
+        eines Unternehmens anlegen?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Wie verwalte ich Benutzerrechte und
+        -rollen in empAI?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: Welche Sprachen unterstützt empAI?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: Kann empAI offline genutzt werden?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: Gibt es eine mobile Version oder App?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Was passiert, wenn ich während der
+        Nutzung auf ein technisches Problem
+        stoße?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+- 
+  sectiontitle: 'Support & Kundenservice'
+  questions:
+    - 
+      question: Wie erreiche ich den Support?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Welche Support-Optionen gibt es (E-Mail,
+        Chat, Telefon)?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: Gibt es Tutorials oder Dokumentationen?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Werden Updates oder neue Funktionen
+        automatisch bereitgestellt?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.

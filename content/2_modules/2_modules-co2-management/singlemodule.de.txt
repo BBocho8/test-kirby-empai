@@ -1,0 +1,70 @@
+Title: Modules CO2-Management
+
+----
+
+Icon: icon2
+
+----
+
+Modulename: CO2-Management
+
+----
+
+Introduction:
+
+Mit dem CO2-Modul vom empAI können Sie all Ihre Themen rund um Ihren CO2-Fußabdruck effizient im Auge behalten, organisieren und verbessern. 
+
+Von der einfachen Erfassung und Analyse, über die Optimierung des Ausstoßes bis hin zur automatisierten Erstellung von CO2-Zertifikaten – alles ist möglich. 
+
+Das Modul bietet Ihnen nicht nur eine vollständige Transparenz über Ihren CO2-Verbrauch, sondern hilft Ihnen auch, gezielt Maßnahmen zur Reduktion zu ergreifen.
+
+----
+
+Features:
+
+- 
+  images:
+    - file://H7e9XHJgaDrDD2oR
+  subtitle: Analyse CO2-Verbrauch
+  description: >
+    Nutzen Sie Ihren Daten, um Ihren
+    CO2-Vebrauch detailliert zu analysieren.
+    Durch die Integration verschiedenster
+    Datenquellen bietet empAI einen
+    umfassenden Überblick und hilft, die
+    wesentlichen Verursacher des
+    CO2-Ausstoßes zu identifizieren. Auf
+    Basis dieser Analysen lassen sich
+    gezielt Maßnahmen zur Reduzierung der
+    CO2-Emissionen ableiten und Ihren
+    CO2-Fußabdruck langfristig und
+    nachhaltig verringern.
+- 
+  images:
+    - file://H7e9XHJgaDrDD2oR
+  subtitle: Optimierung CO2-Verbrauch
+  description: >
+    Mit empAI können Sie Ihren
+    CO2-Verbrauch pro Artikel präzise
+    prognostizieren und optimieren, um
+    maximale Effizienz zu erreichen. Neben
+    der CO2-Analyse ermöglicht das System
+    auch die Vorhersage zukünftiger
+    CO2-Emissionen. Ergreifen Sie basierend
+    darauf vorausschauende Maßnahmen, um
+    Ihre Produkte möglichst emissionsarm
+    herzustellen. So positionieren Sie Ihr
+    Unternehmen als verantwortungsbewussten
+    Akteur in einer zunehmend
+    umweltbewussten Gesellschaft.
+- 
+  images:
+    - file://H7e9XHJgaDrDD2oR
+  subtitle: >
+    Automatisierte Erstellung von
+    CO2-Zertifikaten
+  description: 'Ab dem nächsten Jahr sind CO2-Zertifikate für die Produkte vieler Unternehmen verpflichtend. Mit empAI können Sie diesen Prozess mühelos automatisieren: Die Software generiert die notwendigen CO2-Zertifikate in wenigen Schritten und erstellt umfassende Berichte, die sämtliche rechtlichen Anforderungen erfüllen. So sparen Sie wertvolle Zeit und gewährleisten eine lückenlose Dokumentation Ihres CO2-Ausstoßes.'
+
+----
+
+Relatedmodules: 

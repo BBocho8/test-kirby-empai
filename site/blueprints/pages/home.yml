@@ -1,20 +1,94 @@
 title: Home
 fields:
-  MainText:
-    label: Main Text
-    type: text
+  HeroTitle:
+    label: Hero Title
+    type: markdown
     required: true
     placeholder: Enter the main text for the home page.
-  SubText1:
-    label: Sub Text 1
-    type: text
+  HeroSubTitle:
+    label: Hero SubTitle
+    type: markdown
     required: true
     placeholder: Enter the first subtext.
-  SubText2:
-    label: Sub Text 2
+  HeroButtonText:
+    label: Hero Button Text
     type: text
     required: true
     placeholder: Enter the second subtext.
+  MainTextModules:
+    label: Main Text Modules
+    type: text
+    required: true
+    placeholder: Enter the main text for the modules.
+  SubText1Modules:
+    label: Sub Text 1 Modules
+    type: text
+    required: true
+    placeholder: Enter the first subtext for the modules.
+  SubText2Modules:
+    label: Sub Text 2 Modules
+    type: text
+    required: true
+    placeholder: Enter the second subtext for the modules.
+  empAIintro:
+    label: empAI Introduction
+    type: markdown
+    required: true
+    placeholder: Enter the introduction text for empAI.
+  Form:
+    title: How much could you save
+    label: Form
+    type: structure
+    fields:
+      sectionTitle:
+        label: Section Title
+        type: text
+        default: "How much could you save?"
+        required: true
+      sectionSubtitle:
+        label: Section Subtitle
+        type: text
+        default: "Book your potential analysis now to achieve more while consuming less!"
+        required: true
+      input1:
+        label: Form Input 1
+        type: text
+        default: "Your Company Name"
+        required: true
+      input2:
+        label: Form Input 2
+        type: text
+        default: "Your annual electricity consumption (in kWh)"
+        required: true
+      input3:
+        label: Form Input 3
+        type: text
+        default: "Your Industry"
+        required: true
+      leftButtonText:
+        label: Left Button Text
+        type: text
+        default: "Discover your savings potential now"
+        required: true
+      rightBoxMainNumber:
+        label: Right Box Main Number
+        type: text
+        default: "18.5%"
+        required: true
+      rightBoxSubNumber:
+        label: Right Box Sub Number
+        type: text
+        default: "12.003.389 kwh"
+        required: true
+      rightBoxDescription:
+        label: Right Box Description
+        type: markdown
+        required: true
+      rightButtonText:
+        label: Right Button Text
+        type: text
+        default: "Ask for a personalized demo"
+        required: true
   Buttons:
     label: Buttons
     type: structure

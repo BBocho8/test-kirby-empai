@@ -15,7 +15,12 @@ return [
         'blog.readmore' => 'Weiterlesen',
         'blog.morearticles' => 'Weitere Blogartikel',
         'blog.next' => 'Weiter',
-        'blog.previous' => 'Zurück'
+        'blog.previous' => 'Zurück',
+        'hero.efficiency' => 'Effizienz',
+        'contact.consumeLess' => 'verbrauchen Sie weniger',
+        'contact.produceMore' => 'Erreichen Sie mehr',
+        'contact.jetztAnfragen' => 'Jetzt anfragen',
+        'contact.contactAnalysis' => 'Sprechen Sie uns an für eine Potentialanalyse'
     ],
     'url' => NULL
 ];

@@ -6,15 +6,15 @@ Icon: icon1
 
 ----
 
-Modulename: Energiemarkt
+Modulename: Energy market
 
 ----
 
 Introduction:
 
-Mit dem Energiemarkt von empAI behalten Sie Ihre Energieeinkäufe mühelos im Blick. Genießen Sie die Vorteile modernster Technologie, die Ihnen hilft Ihren Energiemix zu verstehen, Ihre Energieverträge bestmöglich zu verwalten und den benötigten Strom effizient einzukaufen. 
+With empAI's energy market, you can easily keep track of your energy purchases. Enjoy the benefits of state-of-the-art technology that helps you understand your energy mix, manage your energy contracts in the best possible way and purchase the electricity you need efficiently. 
 
-All dies ermöglicht es Ihnen, sich in dem dynamischen Energiemarkt zurechtzufinden und Ihre Kosten auf ein Minimum zu reduzieren.
+All this enables you to navigate the dynamic energy market and keep your costs to a minimum.
 
 ----
 
@@ -23,41 +23,31 @@ Features:
 - 
   images:
     - file://H7e9XHJgaDrDD2oR
-  subtitle: Wirtschaftlichkeitsanalyse
+  subtitle: Profitability analysis
   description: >
-    empAI verschafft Ihnen einen umfassenden
-    Überblick über Ihren Energiemix, indem
-    es den Einsatz von Spotmarkt,
-    Tranchenmodell, selbst erzeugter Energie
-    und weiteren Quellen transparent
-    darstellt und gezielt analysiert. Dabei
-    zeigt empAI den Einfluss selbst
-    erzeugter Energie auf die Kosten und
-    Gewinne durch Netzeinspeisungen und
-    deckt Potenziale zur Optimierung auf. So
-    unterstützt empAI Sie, den optimalen
-    Energiemix für stabile Kosten zu
-    gestalten und flexibel auf Markttrends
-    zu reagieren.
+    empAI provides you with a comprehensive
+    overview of your energy mix by
+    transparently displaying and
+    specifically analyzing the use of spot
+    market, tranche model, self-generated
+    energy and other sources. In doing so,
+    empAI shows the influence of
+    self-generated energy on the costs and
+    profits from grid feed-ins and uncovers
+    potential for optimization. In this way,
+    empAI supports you in designing the
+    optimum energy mix for stable costs and
+    reacting flexibly to market trends.
 - 
   images:
     - file://H7e9XHJgaDrDD2oR
-  subtitle: Verwaltung Stromverträge
-  description: >
-    Mit der Verwaltungsfunktion von empAI
-    können Sie sämtliche Energieverträge
-    und Trancheneinkäufe nahtlos und
-    effizient an einem Ort verwalten. Dank
-    unserer Plattform haben Sie jederzeit
-    Zugriff auf alle wichtigen Vertragsdaten
-    und Kaufdetails. So haben Sie die
-    maximale Transparenz und Kontrolle über
-    Ihre Energiegeschäfte.
+  subtitle: Electricity contract management
+  description: "With empAI's administration function, you can manage all energy contracts and tranche purchases seamlessly and efficiently in one place. Thanks to our platform, you have access to all important contract data and purchase details at all times. This gives you maximum transparency and control over your energy transactions."
 - 
   images:
     - file://H7e9XHJgaDrDD2oR
-  subtitle: Tranchenmarktsimulation
-  description: 'Nutzen Sie die Tranchenmarktsimulation von empAI, um fundierte Entscheidungen im dynamischen Energiemarkt zu treffen. Mithilfe dieser innovativen Entwicklung können Sie die verschiedenen Tranchen verfolgen und zukünftige Preisbewegungen sowie Angebot und Nachfrage präzise simulieren. Durch die Analyse Ihrer Verbrauchs- und Erzeugungsdaten, Ihrer bisherigen Tranchenkäufe und aktuellen Trends im Energiemarkt erhalten Sie tiefgreifende Einblicke, die Ihnen helfen, Ihre Energieeinkaufsstrategie zu optimieren und spürbar Ihre Kosten zu senken.'
+  subtitle: Tranche market simulation
+  description: "Use empAI's tranche market simulation to make informed decisions in the dynamic energy market. This innovative development allows you to track the various tranches and accurately simulate future price movements as well as supply and demand. By analyzing your consumption and generation data, your previous tranche purchases and current trends in the energy market, you will gain in-depth insights that will help you optimize your energy purchasing strategy and noticeably reduce your costs."
 
 ----
 

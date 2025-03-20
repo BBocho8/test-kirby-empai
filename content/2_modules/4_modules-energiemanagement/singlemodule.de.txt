@@ -1,0 +1,49 @@
+Title: Modules Energiemanagement
+
+----
+
+Icon: icon4
+
+----
+
+Modulename: Energiemanagement
+
+----
+
+Introduction:
+
+Das transparente Energiemanagement von empAI bietet Ihnen die Möglichkeit, alle relevanten Daten zum Energieverbrauch und zur Energieerzeugung Ihres Unternehmens, Ihrer Produktion und Ihrer Anlagen in Echtzeit zu analysieren. 
+
+Mithilfe des vielseitigen Datenmixes aus Sensor-, Wetter-, Produktions- sowie Energieverbrauchs- und Erzeugungsdaten erkennen Sie Trends und Verbrauchsmuster und können so die Effizienz Ihrer Betriebsabläufe steigern.
+
+----
+
+Features:
+
+- 
+  images:
+    - file://CDD3zXNez13Zjzmz
+  subtitle: Einblick in Verbrauchsdaten
+  description: 'empAI bietet vielseitige Auswertungs- und Visualisierungsmöglichkeiten, um Ihre Energieverbräuche zu verstehen und Handlungspotenziale zu erkennen. Profitieren Sie von detaillierten Analysen wie Durchschnitten und Extremwerten, und lassen Sie sich Ihren Verbrauch absolut oder differenziert nach Standorten und Anlagen anzeigen. Dabei haben Sie die Kontrolle über die zeitliche Auflösung und können zwischen Balkendiagrammen, Kurven oder Grenzwert-Einblendungen wählen.'
+- 
+  images:
+    - file://CDD3zXNez13Zjzmz
+  subtitle: Ausgabe von Energieberichten
+  description: >
+    Mit empAI können Sie Energieberichte
+    automatisiert und effizient erstellen.
+    Diese Berichte werden auf Abruf oder in
+    festgelegten Intervallen generiert. Sie
+    enthalten übersichtliche Diagramme zur
+    einfachen Dateninterpretation und
+    können in gängigen Formaten ausgegeben
+    werden. Zudem lassen sich die Berichte
+    zielgruppenspezifisch, etwa für die
+    Geschäftsführung, konfigurieren und
+    automatisch versenden, um Sie über
+    relevante Entwicklungen zu informieren.
+- 
+  images:
+    - file://CDD3zXNez13Zjzmz
+  subtitle: 'Integrierter Frühwarnmechanismus '
+  description: 'Profitieren Sie von unserem Frühwarnmechanismus, der Sie bei Überschreitungen individuell festgelegter Schwellenwerte umgehend informiert. Sie können mehrere Alarme für jede Entität und jeden Parameter festlegen, die je nach Schweregrad der Abweichung unterschiedlich gestaltet sind: Bei geringfügigen Überschreitungen erhalten Sie eine E-Mail, während größere Abweichungen eine sofortige SMS-Benachrichtigung auslösen.'

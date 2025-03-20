@@ -6,17 +6,17 @@ Icon: icon3
 
 ----
 
-Modulename: KI-basierte Vorhersagen
+Modulename: AI-based predictions
 
 ----
 
 Introduction:
 
-Ein wichtiger Bestandteil von empAI ist eine innovative, speziell entwickelte künstliche Intelligenz zur präzisen Vorhersage des Energieverbrauchs und der -produktion. 
+An important component of empAI is an innovative, specially developed artificial intelligence for the precise prediction of energy consumption and production. 
 
-Die Kombination der KI mit weiteren Datenquellen wie Produktionsplänen und Umweltdaten (z. B. Wetter und Energiepreise) ermöglicht Unternehmen die Einflussfaktoren auf Energiekosten und externe Trends besser zu verstehen. 
+The combination of AI with other data sources such as production plans and environmental data (e.g. weather and energy prices) enables companies to better understand the factors influencing energy costs and external trends. 
 
-Mit einer Modellgenauigkeit von über 85 % sagt die KI den Energieverbrauch für morgen, die nächste Woche oder sogar das kommende Jahr zuverlässig  vorher.
+With a model accuracy of over 85%, AI reliably predicts energy consumption for tomorrow, next week or even the coming year.
 
 ----
 
@@ -25,47 +25,30 @@ Features:
 - 
   images:
     - file://H7e9XHJgaDrDD2oR
-  subtitle: Energieprofile
-  description: >
-    Erstellen Sie mithilfe der integrierten
-    KI verschiedene Profile, um Ihren
-    Energieverbrauch und Ihre Produktion zu
-    analysieren. Von täglichen,
-    wöchentlichen bis hin zu monatlichen
-    und ortsbezogenen Energieprofilen –
-    alles lässt sich nach individuellen
-    Vorlieben modellieren. So finden Sie
-    heraus, wann Sie den meisten Strom
-    verbrauchen und zu welchen Zeiten die
-    Kosten am höchsten sind. Auf Basis
-    dieser wertvollen Erkenntnisse können
-    Sie Ihre Prozesse anpassen, um maximale
-    Energieeffizienz zu erreichen.
+  subtitle: Energy profiles
+  description: 'Use the integrated AI to create different profiles to analyze your energy consumption and production. From daily and weekly to monthly and location-based energy profiles - everything can be modeled according to individual preferences. This allows you to find out when you consume the most electricity and at what times costs are highest. Based on these valuable insights, you can adapt your processes to achieve maximum energy efficiency.'
 - 
   images:
     - file://H7e9XHJgaDrDD2oR
-  subtitle: Einfluss erneuerbarer Energien
+  subtitle: Influence of renewable energies
   description: >
-    Mit empAI erhalten Sie exklusive
-    Einblicke in die Auswirkungen von selbst
-    produzierten, erneuerbaren Energien auf
-    den eigenen Betrieb. Die KI analysiert
-    präzise, wie die Produktion und Nutzung
-    von Wind, Solar oder anderen
-    erneuerbaren Energien Ihren Energiemix
-    und Ihre Produktionskosten beeinflusst.
-    Durch die Kombination von Umweltdaten
-    und Energieprofilen können Sie
-    herausfinden, wann die Nutzung dieser
-    Energien am sinnvollsten ist und wie Sie
-    Ihre Prozesse entsprechend verändern,
-    um mehr zu erreichen und weniger zu
-    zahlen.
+    empAI gives you exclusive insights into
+    the impact of self-produced renewable
+    energy on your own business. The AI
+    precisely analyzes how the production
+    and use of wind, solar or other
+    renewable energy affects your energy mix
+    and production costs. By combining
+    environmental data and energy profiles,
+    you can find out when it makes the most
+    sense to use these energies and how to
+    change your processes accordingly to
+    achieve more and pay less.
 - 
   images:
     - file://H7e9XHJgaDrDD2oR
-  subtitle: Prozessoptimierung
-  description: 'Mit empAI optimieren Sie Ihre Betriebsprozesse durch die Verknüpfung von Produktionsdaten und Energieprofilen. Dies gelingt durch den Abgleich von Produktions- und Prozessdaten, wie Schichtplänen und IoT-Maschinen-Daten.  So erhalten Sie Einblicke, wann die Produktion am stromsparendsten durchgeführt werden kann und wie viel Energie in jedem Produkt steckt. Dies ermöglicht es Ihnen Ihre Abläufe effizienter zu organisieren und Ihre Produktion kostengünstig und ressourcenschonend zu gestalten.'
+  subtitle: Process optimization
+  description: 'With empAI, you can optimize your operating processes by linking production data and energy profiles. This is achieved by comparing production and process data, such as shift schedules and IoT machine data.  This gives you insights into when production can be carried out in the most energy-efficient way and how much energy is used in each product. This enables you to organize your processes more efficiently and make your production more cost-effective and resource-efficient.'
 
 ----
 

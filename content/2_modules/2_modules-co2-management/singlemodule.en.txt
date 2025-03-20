@@ -12,11 +12,11 @@ Modulename: CO2-Management
 
 Introduction:
 
-Mit dem CO2-Modul vom empAI können Sie all Ihre Themen rund um Ihren CO2-Fußabdruck effizient im Auge behalten, organisieren und verbessern. 
+With the empAI CO2 module, you can efficiently keep an eye on, organize and improve all your CO2 footprint-related issues. 
 
-Von der einfachen Erfassung und Analyse, über die Optimierung des Ausstoßes bis hin zur automatisierten Erstellung von CO2-Zertifikaten – alles ist möglich. 
+From simple recording and analysis to the optimization of emissions and the automated creation of CO2 certificates - everything is possible. 
 
-Das Modul bietet Ihnen nicht nur eine vollständige Transparenz über Ihren CO2-Verbrauch, sondern hilft Ihnen auch, gezielt Maßnahmen zur Reduktion zu ergreifen.
+The module not only provides you with complete transparency about your CO2 consumption, but also helps you to take targeted measures to reduce it.
 
 ----
 
@@ -25,45 +25,40 @@ Features:
 - 
   images:
     - file://H7e9XHJgaDrDD2oR
-  subtitle: Analyse CO2-Verbrauch
+  subtitle: Analysis of CO2 consumption
   description: >
-    Nutzen Sie Ihren Daten, um Ihren
-    CO2-Vebrauch detailliert zu analysieren.
-    Durch die Integration verschiedenster
-    Datenquellen bietet empAI einen
-    umfassenden Überblick und hilft, die
-    wesentlichen Verursacher des
-    CO2-Ausstoßes zu identifizieren. Auf
-    Basis dieser Analysen lassen sich
-    gezielt Maßnahmen zur Reduzierung der
-    CO2-Emissionen ableiten und Ihren
-    CO2-Fußabdruck langfristig und
-    nachhaltig verringern.
+    Use your data to analyze your CO2
+    consumption in detail. By integrating a
+    wide range of data sources, empAI
+    provides a comprehensive overview and
+    helps to identify the main sources of
+    CO2 emissions. Based on these analyses,
+    you can derive targeted measures to
+    reduce CO2 emissions and reduce your CO2
+    footprint in the long term and
+    sustainably.
 - 
   images:
     - file://H7e9XHJgaDrDD2oR
-  subtitle: Optimierung CO2-Verbrauch
+  subtitle: Optimization of CO2 consumption
   description: >
-    Mit empAI können Sie Ihren
-    CO2-Verbrauch pro Artikel präzise
-    prognostizieren und optimieren, um
-    maximale Effizienz zu erreichen. Neben
-    der CO2-Analyse ermöglicht das System
-    auch die Vorhersage zukünftiger
-    CO2-Emissionen. Ergreifen Sie basierend
-    darauf vorausschauende Maßnahmen, um
-    Ihre Produkte möglichst emissionsarm
-    herzustellen. So positionieren Sie Ihr
-    Unternehmen als verantwortungsbewussten
-    Akteur in einer zunehmend
-    umweltbewussten Gesellschaft.
+    With empAI, you can precisely forecast
+    and optimize your CO2 consumption per
+    item to achieve maximum efficiency. In
+    addition to CO2 analysis, the system
+    also allows you to predict future CO2
+    emissions. Based on this, you can take
+    forward-looking measures to manufacture
+    your products with the lowest possible
+    emissions. In this way, you can position
+    your company as a responsible player in
+    an increasingly environmentally
+    conscious society.
 - 
   images:
     - file://H7e9XHJgaDrDD2oR
-  subtitle: >
-    Automatisierte Erstellung von
-    CO2-Zertifikaten
-  description: 'Ab dem nächsten Jahr sind CO2-Zertifikate für die Produkte vieler Unternehmen verpflichtend. Mit empAI können Sie diesen Prozess mühelos automatisieren: Die Software generiert die notwendigen CO2-Zertifikate in wenigen Schritten und erstellt umfassende Berichte, die sämtliche rechtlichen Anforderungen erfüllen. So sparen Sie wertvolle Zeit und gewährleisten eine lückenlose Dokumentation Ihres CO2-Ausstoßes.'
+  subtitle: Automated creation of CO2 certificates
+  description: 'From next year, CO2 certificates will be mandatory for the products of many companies. With empAI, you can automate this process effortlessly: The software generates the necessary CO2 certificates in just a few steps and creates comprehensive reports that meet all legal requirements. This saves you valuable time and ensures complete documentation of your CO2 emissions.'
 
 ----
 
