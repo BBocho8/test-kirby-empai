@@ -28,6 +28,10 @@
 
 /* NAVBAR */
 
+/* NAVBAR */
+
+/* NAVBAR */
+
 .logo {
   @apply w-32 mx-auto;
 }
@@ -41,7 +45,7 @@
 }
 
 .contact-button {
-  @apply  text-white font-bold bg-primary pt-4 px-10 flex justify-center items-center rounded-lg;
+  @apply text-white font-bold bg-primary pt-4 px-10 flex justify-center items-center rounded-lg;
 }
 
 .navbar-menu {
@@ -49,11 +53,39 @@
 }
 
 .navbar-menu a {
-  @apply text-[#92d05099]
+  @apply text-[#92d05099];
 }
 
 .navbar-menu a.active {
-  @apply text-primary
+  @apply text-primary;
+}
+
+/* Burger Menu */
+.burger-menu {
+  @apply hidden; /* Hidden by default */
+  @apply w-10 h-10 cursor-pointer;
+}
+
+.burger-icon {
+  @apply w-10 h-10; /* Adjust size as needed */
+}
+
+/* Responsive Styles */
+@media (max-width: 1084px) {
+  .burger-menu {
+    @apply block; /* Show burger menu only on small screens */
+    @apply flex justify-center items-center;
+  }
+
+  .navbar-menu {
+    @apply hidden; /* Hide the menu by default on small screens */
+    @apply absolute top-full left-0 w-full bg-white bg-opacity-90;
+    @apply flex-col gap-4 p-4;
+  }
+
+  .navbar-menu.active {
+    @apply flex; /* Show the menu when active */
+  }
 }
 
 /* END OF NAVBAR */

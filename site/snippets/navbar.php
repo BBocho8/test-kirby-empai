@@ -1,12 +1,15 @@
 <section class="navbar-desktop">
-
   <div class="navbar-wrapper">
     <a href="<?= $site->url() ?>">
       <img src="/assets/logo/empai-logo.png" alt="" class="logo">
     </a>
 
-    <nav class="navbar-menu">
+    <!-- Burger Menu Button -->
+    <button class="burger-menu" aria-label="Toggle menu">
+      <img src="/assets/icons/burger-menu.svg" alt="Menu" class="burger-icon">
+    </button>
 
+    <nav class="navbar-menu">
       <?php foreach ($site->children()->listed() as $item): ?>
         <a <?php e($item->isOpen(), 'aria-current="page" class="active"') ?> href="<?= $item->url() ?>"><?= $item->title()->esc() ?></a>
       <?php endforeach ?>
@@ -30,8 +33,6 @@
           <?php endforeach ?>
         </div>
       </div>
-
     </nav>
-
   </div>
 </section>

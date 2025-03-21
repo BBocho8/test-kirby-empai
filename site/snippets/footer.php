@@ -51,6 +51,7 @@
 
 <?= js([
   'assets/js/language-switcher.js',
+  'assets/js/burger-menu.js',
   '@auto'
 ]) ?>
 
