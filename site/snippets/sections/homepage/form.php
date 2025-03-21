@@ -11,7 +11,7 @@
         <input type="text" placeholder="<?= $section->input1() ?>" class="px-3 py-3 text-white border border-white rounded bg-empaiBlack">
         <input type="text" placeholder="<?= $section->input2() ?>" class="px-3 py-3 text-white border border-white rounded bg-empaiBlack">
         <select name="industry" id="industry-select" class="px-3 py-3 text-white border border-white rounded bg-empaiBlack" aria-placeholder="<?= $section->input3() ?>">
-          <option value="" disabled selected>Your Industry</option>
+          <option value="" disabled selected><?= $section->input3() ?></option>
           <option value="industry1">Industry1</option>
           <option value="industry2">Industry2</option>
           <option value="industry3">Industry3</option>
@@ -34,7 +34,7 @@
 
     <!-- For - right side -->
 
-    <div id="right-div" class="bg-[#2D3742] border border-primary p-8 rounded w-1/2 flex flex-col gap-2">
+    <div id="right-div" class="bg-[#2D3742] border border-primary p-8 rounded w-1/2 flex flex-col gap-2 justify-between">
       <div>
         <p class="text-white font-goldman text-8xl"><?= $section->rightBoxMainNumber() ?></p>
         <p class="text-5xl font-goldman text-primary"><?= $section->rightBoxSubNumber() ?></p>
