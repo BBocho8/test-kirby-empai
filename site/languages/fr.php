@@ -16,7 +16,7 @@ return [
         'blog.title' => 'Derniers articles',
         'blog.zuruck' => 'Retour à la page Blog',
         'contact.consumeLess' => 'Consommer Moins',
-        'contact.contactAnalysis' => 'Contactez-nous pour une analyse de potentiel.',
+        'contact.contactAnalysis' => 'Contactez-nous pour une analyse de potentiel',
         'contact.jetztAnfragen' => 'Contactez Nous Maintenant',
         'contact.produceMore' => 'Produire Plus',
         'hero.efficiency' => 'Efficacité',

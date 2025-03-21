@@ -20,7 +20,7 @@ return [
         'contact.jetztAnfragen' => 'Contact Us Now',
         'contact.produceMore' => 'Produce More',
         'contact.consumeLess' => 'Consume Less',
-        'contact.contactAnalysis' => 'Contact us for a potential analysis.',
+        'contact.contactAnalysis' => 'Contact us for a potential analysis',
         'module.functionsOverview' => 'The functions at a glance'
     ],
     'url' => NULL
