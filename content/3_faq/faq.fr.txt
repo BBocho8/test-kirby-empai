@@ -4,21 +4,21 @@ Title: FAQ
 
 Introduction:
 
-On this page we have compiled the most frequently asked questions about empAI for you. This will give you a clear and structured overview of our platform, its functions and how to use it.</br> </br>
+Sur cette page, nous avons rassemblé pour vous les questions les plus fréquemment posées sur empAI. Vous aurez ainsi une vue d'ensemble claire et structurée de notre plateforme, de ses fonctions et de son utilisation.</br> </br>
 
-Whether you are just getting started with empAI or need detailed information about our technology - you will find the answers to your questions here.</br> </br>
+Que vous débutiez avec empAI ou que vous ayez besoin d'informations détaillées sur notre technologie, vous trouverez ici les réponses à vos questions.</br> </br>
 
-If your questions are not fully answered or if you require more specific information, our support team will of course be happy to help you.</br> </br>
+Si vous n'obtenez pas de réponse complète à vos questions ou si vous avez besoin d'informations plus spécifiques, notre équipe d'assistance se fera un plaisir de vous aider.</br> </br>
 
 ----
 
 Sections:
 
 - 
-  sectiontitle: 'First steps with empAI '
+  sectiontitle: Premiers pas avec empAI
   questions:
     - 
-      question: What is empAI?
+      question: "Qu'est-ce qu'empAI ?"
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -27,7 +27,7 @@ Sections:
         unde repellendus atque voluptatum
         facere.
     - 
-      question: 'How does empAI work? '
+      question: Comment fonctionne empAI ?
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -36,7 +36,7 @@ Sections:
         unde repellendus atque voluptatum
         facere.
     - 
-      question: 'Who is behind empAI? '
+      question: "Qui est à l'origine d'empAI ?"
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -45,7 +45,7 @@ Sections:
         unde repellendus atque voluptatum
         facere.
     - 
-      question: Which industries benefit from empAI?
+      question: "Quelles sont les industries qui bénéficient d'empAI ?"
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -55,8 +55,8 @@ Sections:
         facere.
     - 
       question: >
-        How quickly can empAI be implemented in
-        my company?
+        En combien de temps empAI peut-il être
+        mis en œuvre dans mon entreprise ?
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -65,7 +65,9 @@ Sections:
         unde repellendus atque voluptatum
         facere.
     - 
-      question: What equipment do I need to use empAI?
+      question: >
+        De quel équipement ai-je besoin pour
+        utiliser empAI ?
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -74,12 +76,12 @@ Sections:
         unde repellendus atque voluptatum
         facere.
 - 
-  sectiontitle: ' Technology & AI'
+  sectiontitle: 'Technology & AI'
   questions:
     - 
       question: >
-        Are there customization options for my
-        company?
+        Existe-t-il des options de
+        personnalisation pour mon entreprise ?
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -88,7 +90,7 @@ Sections:
         unde repellendus atque voluptatum
         facere.
     - 
-      question: "How safe is empAI's AI?"
+      question: "L'IA d'empAI est-elle sûre ?"
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -97,25 +99,7 @@ Sections:
         unde repellendus atque voluptatum
         facere.
     - 
-      question: Which AI technologies are used?
-      answer: >
-        Lorem ipsum dolor sit amet consectetur
-        adipisicing elit. Tenetur inventore
-        corrupti laborum laudantium fugiat
-        deserunt impedit facilis ex modi ipsum,
-        unde repellendus atque voluptatum
-        facere.
-    - 
-      question: How is data handled?
-      answer: >
-        Lorem ipsum dolor sit amet consectetur
-        adipisicing elit. Tenetur inventore
-        corrupti laborum laudantium fugiat
-        deserunt impedit facilis ex modi ipsum,
-        unde repellendus atque voluptatum
-        facere.
-    - 
-      question: How is the accuracy of the AI ensured?
+      question: "Quelles sont les technologies d'IA utilisées ?"
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -125,8 +109,8 @@ Sections:
         facere.
     - 
       question: >
-        What distinguishes empAI from other AI
-        solutions?
+        Comment les données sont-elles
+        traitées ?
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -135,9 +119,25 @@ Sections:
         unde repellendus atque voluptatum
         facere.
     - 
-      question: >
-        What hardware or cloud requirements are
-        there for use?
+      question: "Comment l'exactitude de l'IA est-elle garantie ?"
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: "Qu'est-ce qui distingue empAI des autres solutions d'IA ?"
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: "Quelles sont les exigences en matière de matériel ou d'informatique dématérialisée ?"
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -146,10 +146,10 @@ Sections:
         unde repellendus atque voluptatum
         facere.
 - 
-  sectiontitle: GDPR and data protection
+  sectiontitle: GDPR et protection des données
   questions:
     - 
-      question: Is empAI GDPR compliant?
+      question: EmpAI est-il conforme au GDPR ?
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -158,27 +158,7 @@ Sections:
         unde repellendus atque voluptatum
         facere.
     - 
-      question: Where is empAI hosted?
-      answer: >
-        Lorem ipsum dolor sit amet consectetur
-        adipisicing elit. Tenetur inventore
-        corrupti laborum laudantium fugiat
-        deserunt impedit facilis ex modi ipsum,
-        unde repellendus atque voluptatum
-        facere.
-    - 
-      question: >
-        Where is the user data stored and for
-        how long?
-      answer: >
-        Lorem ipsum dolor sit amet consectetur
-        adipisicing elit. Tenetur inventore
-        corrupti laborum laudantium fugiat
-        deserunt impedit facilis ex modi ipsum,
-        unde repellendus atque voluptatum
-        facere.
-    - 
-      question: Can users have their data deleted?
+      question: Où est hébergé empAI ?
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -188,8 +168,9 @@ Sections:
         facere.
     - 
       question: >
-        What security measures are in place to
-        protect user data?
+        Où les données des utilisateurs
+        sont-elles stockées et pendant combien
+        de temps ?
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -199,8 +180,31 @@ Sections:
         facere.
     - 
       question: >
-        What data is processed by empAI and for
-        what purpose?
+        Les utilisateurs peuvent-ils faire
+        effacer leurs données ?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Quelles sont les mesures de sécurité
+        mises en place pour protéger les
+        données des utilisateurs ?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Quelles sont les données traitées par
+        empAI et dans quel but ?
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -209,10 +213,10 @@ Sections:
         unde repellendus atque voluptatum
         facere.
 - 
-  sectiontitle: 'Access & use'
+  sectiontitle: 'Accès & Utilisation'
   questions:
     - 
-      question: How do I register?
+      question: "Comment s'inscrire ?"
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -221,16 +225,7 @@ Sections:
         unde repellendus atque voluptatum
         facere.
     - 
-      question: What are the requirements for use?
-      answer: >
-        Lorem ipsum dolor sit amet consectetur
-        adipisicing elit. Tenetur inventore
-        corrupti laborum laudantium fugiat
-        deserunt impedit facilis ex modi ipsum,
-        unde repellendus atque voluptatum
-        facere.
-    - 
-      question: Which systems is empAI compatible with?
+      question: "Quelles sont les conditions d'utilisation ?"
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -240,8 +235,8 @@ Sections:
         facere.
     - 
       question: >
-        How is empAI integrated into the
-        existing system landscape?
+        Avec quels systèmes empAI est-il
+        compatible ?
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -250,7 +245,7 @@ Sections:
         unde repellendus atque voluptatum
         facere.
     - 
-      question: How does the introduction work?
+      question: "Comment empAI s'intègre-t-il dans le paysage des systèmes existants ?"
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -259,9 +254,7 @@ Sections:
         unde repellendus atque voluptatum
         facere.
     - 
-      question: >
-        What costs are associated with the use
-        of empAI?
+      question: "Comment fonctionne l'introduction ?"
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -270,20 +263,7 @@ Sections:
         unde repellendus atque voluptatum
         facere.
     - 
-      question: >
-        Are there different license models or
-        price packages?
-      answer: >
-        Lorem ipsum dolor sit amet consectetur
-        adipisicing elit. Tenetur inventore
-        corrupti laborum laudantium fugiat
-        deserunt impedit facilis ex modi ipsum,
-        unde repellendus atque voluptatum
-        facere.
-    - 
-      question: >
-        Can I create multiple users within a
-        company?
+      question: "Quels sont les coûts associés à l'utilisation de l'empAI ?"
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -293,8 +273,8 @@ Sections:
         facere.
     - 
       question: >
-        How do I manage user rights and roles in
-        empAI?
+        Existe-t-il différents modèles de
+        licence ou de prix ?
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -303,25 +283,7 @@ Sections:
         unde repellendus atque voluptatum
         facere.
     - 
-      question: Which languages does empAI support?
-      answer: >
-        Lorem ipsum dolor sit amet consectetur
-        adipisicing elit. Tenetur inventore
-        corrupti laborum laudantium fugiat
-        deserunt impedit facilis ex modi ipsum,
-        unde repellendus atque voluptatum
-        facere.
-    - 
-      question: Can empAI be used offline?
-      answer: >
-        Lorem ipsum dolor sit amet consectetur
-        adipisicing elit. Tenetur inventore
-        corrupti laborum laudantium fugiat
-        deserunt impedit facilis ex modi ipsum,
-        unde repellendus atque voluptatum
-        facere.
-    - 
-      question: Is there a mobile version or app?
+      question: "Puis-je créer plusieurs utilisateurs au sein d'une même entreprise ?"
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -331,8 +293,50 @@ Sections:
         facere.
     - 
       question: >
-        What happens if I encounter a technical
-        problem during use?
+        Comment gérer les droits et les rôles
+        des utilisateurs dans empAI ?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Quelles sont les langues supportées par
+        empAI ?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        empAI peut-il être utilisé hors ligne
+        ?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: >
+        Existe-t-il une version mobile ou une
+        application ?
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: "Que se passe-t-il si je rencontre un problème technique lors de l'utilisation ?"
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -341,10 +345,19 @@ Sections:
         unde repellendus atque voluptatum
         facere.
 - 
-  sectiontitle: ' Support & Customer service'
+  sectiontitle: 'Support & Service Client'
   questions:
     - 
-      question: How do I contact support?
+      question: "Comment contacter le service d'assistance ?"
+      answer: >
+        Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Tenetur inventore
+        corrupti laborum laudantium fugiat
+        deserunt impedit facilis ex modi ipsum,
+        unde repellendus atque voluptatum
+        facere.
+    - 
+      question: "Quelles sont les options d'assistance disponibles (e-mail, chat, téléphone) ?"
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -354,8 +367,8 @@ Sections:
         facere.
     - 
       question: >
-        What support options are available
-        (e-mail, chat, telephone)
+        Existe-t-il des tutoriels ou de la
+        documentation ?
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -365,8 +378,9 @@ Sections:
         facere.
     - 
       question: >
-        Are there any tutorials or
-        documentation?
+        Les mises à jour ou les nouvelles
+        fonctions sont-elles fournies
+        automatiquement ?
       answer: >
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Tenetur inventore
@@ -374,18 +388,3 @@ Sections:
         deserunt impedit facilis ex modi ipsum,
         unde repellendus atque voluptatum
         facere.
-    - 
-      question: >
-        Are updates or new functions provided
-        automatically?
-      answer: >
-        Lorem ipsum dolor sit amet consectetur
-        adipisicing elit. Tenetur inventore
-        corrupti laborum laudantium fugiat
-        deserunt impedit facilis ex modi ipsum,
-        unde repellendus atque voluptatum
-        facere.
-
-----
-
-Uuid: lpVfVJO6t8ieKHRa
