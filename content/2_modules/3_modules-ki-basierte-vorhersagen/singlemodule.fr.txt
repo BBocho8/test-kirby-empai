@@ -1,0 +1,43 @@
+Title: Modules KI-basierte Vorhersagen
+
+----
+
+Icon: icon3
+
+----
+
+Modulename: Prédictions basées sur l'IA
+
+----
+
+Introduction:
+
+Une composante importante d'empAI est une intelligence artificielle innovante, spécialement développée pour la prédiction précise de la consommation et de la production d'énergie. 
+
+La combinaison de l'IA avec d'autres sources de données telles que les plans de production et les données environnementales (par exemple, les conditions météorologiques et les prix de l'énergie) permet aux entreprises de mieux comprendre les facteurs qui influencent les coûts énergétiques et les tendances externes. 
+
+Avec une précision de modèle de plus de 85 %, l'IA prédit de manière fiable la consommation d'énergie pour demain, la semaine prochaine ou même l'année à venir.
+
+----
+
+Features:
+
+- 
+  images:
+    - file://H7e9XHJgaDrDD2oR
+  subtitle: Profils énergétiques
+  description: "Utilisez l'IA intégrée pour créer différents profils afin d'analyser votre consommation et votre production d'énergie. Qu'il s'agisse de profils énergétiques quotidiens ou hebdomadaires, mensuels ou géolocalisés, tout peut être modélisé en fonction des préférences individuelles. Cela vous permet de savoir quand vous consommez le plus d'électricité et à quels moments les coûts sont les plus élevés. Sur la base de ces informations précieuses, vous pouvez adapter vos processus pour atteindre une efficacité énergétique maximale."
+- 
+  images:
+    - file://H7e9XHJgaDrDD2oR
+  subtitle: Influence des énergies renouvelables
+  description: "empAI vous donne des informations exclusives sur l'impact de l'énergie renouvelable autoproduite sur votre propre entreprise. L'IA analyse précisément comment la production et l'utilisation d'énergie éolienne, solaire ou d'autres énergies renouvelables affectent votre mix énergétique et vos coûts de production. En combinant les données environnementales et les profils énergétiques, vous pouvez savoir quand il est le plus judicieux d'utiliser ces énergies et comment modifier vos processus en conséquence pour obtenir plus et payer moins."
+- 
+  images:
+    - file://H7e9XHJgaDrDD2oR
+  subtitle: Optimisation des processus
+  description: "Avec empAI, vous pouvez optimiser vos processus d'exploitation en reliant les données de production et les profils énergétiques. Pour ce faire, vous comparez les données de production et de processus, telles que les horaires des équipes et les données des machines IoT.  Cela vous permet de savoir quand la production peut être réalisée de la manière la plus efficace sur le plan énergétique et quelle quantité d'énergie est utilisée pour chaque produit. Vous pouvez ainsi organiser vos processus de manière plus efficace et rendre votre production plus rentable et plus économe en ressources."
+
+----
+
+Relatedmodules: 

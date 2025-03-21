@@ -13,7 +13,7 @@
   </div>
 
   <!-- Die Funktionen im Überblick -->
-  <h2 class="module-subtitle">Die Funktionen im Überblick</h2>
+  <h2 class="module-subtitle"><?= t("module.functionsOverview") ?></h2>
 
 
   <?php foreach ($page->features()->toStructure() as $feature): ?>

@@ -1,0 +1,37 @@
+Title: Modules Energiemanagement
+
+----
+
+Icon: icon4
+
+----
+
+Modulename: Gestion de l'énergie
+
+----
+
+Introduction:
+
+La gestion transparente de l'énergie d'empAI vous offre la possibilité d'analyser en temps réel toutes les données pertinentes relatives à la consommation et à la production d'énergie de votre entreprise, de votre production et de vos systèmes. 
+
+A l'aide d'un mélange de données variées (capteurs, météo, production, consommation et production d'énergie), vous pouvez identifier des tendances et des modèles de consommation et ainsi augmenter l'efficacité de vos processus d'exploitation.
+
+----
+
+Features:
+
+- 
+  images:
+    - file://CDD3zXNez13Zjzmz
+  subtitle: Aperçu des données de consommation
+  description: "empAI offre une large gamme d'options d'évaluation et de visualisation pour vous aider à comprendre votre consommation d'énergie et à identifier les potentiels d'action. Bénéficiez d'analyses détaillées telles que les moyennes et les valeurs extrêmes, et visualisez votre consommation en termes absolus ou différenciés par lieu et par système. Vous pouvez contrôler la résolution temporelle et choisir entre des diagrammes à barres, des courbes ou des superpositions de valeurs limites."
+- 
+  images:
+    - file://CDD3zXNez13Zjzmz
+  subtitle: "Production de rapports sur l'énergie"
+  description: "Avec empAI, vous pouvez créer des rapports énergétiques de manière automatique et efficace. Ces rapports sont générés sur demande ou à intervalles réguliers. Ils contiennent des diagrammes clairs qui facilitent l'interprétation des données et peuvent être édités dans des formats courants. Les rapports peuvent également être configurés pour des groupes cibles spécifiques, tels que la direction, et envoyés automatiquement pour vous tenir informé des développements pertinents."
+- 
+  images:
+    - file://CDD3zXNez13Zjzmz
+  subtitle: " Mécanisme intégré d'alerte précoce"
+  description: "Profitez de notre mécanisme d'alerte précoce, qui vous informe immédiatement en cas de dépassement des valeurs seuils définies individuellement. Vous pouvez définir plusieurs alertes pour chaque entité et chaque paramètre, qui varient en fonction de la gravité de l'écart : Les écarts mineurs vous enverront un courriel, tandis que les écarts majeurs déclencheront une notification immédiate par SMS."

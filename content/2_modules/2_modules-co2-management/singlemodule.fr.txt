@@ -1,0 +1,45 @@
+Title: Modules CO2-Management
+
+----
+
+Icon: icon2
+
+----
+
+Modulename: Gestion du CO2
+
+----
+
+Introduction:
+
+Le module CO2 d'empAI vous permet de surveiller, d'organiser et d'améliorer efficacement toutes les questions liées à l'empreinte CO2. 
+
+De la simple saisie et de l'analyse à l'optimisation des émissions et à la création automatisée de certificats de CO2, tout est possible. 
+
+Le module vous offre non seulement une transparence totale sur votre consommation de CO2, mais vous aide également à prendre des mesures ciblées pour la réduire.
+
+----
+
+Features:
+
+- 
+  images:
+    - file://H7e9XHJgaDrDD2oR
+  subtitle: Analyse de la consommation de CO2
+  description: "Utilisez vos données pour analyser en détail votre consommation de CO2. En intégrant un large éventail de sources de données, empAI fournit une vue d'ensemble et aide à identifier les principales sources d'émissions de CO2. Sur la base de ces analyses, vous pouvez prendre des mesures ciblées pour réduire les émissions de CO2 et réduire votre empreinte CO2 à long terme et de manière durable."
+- 
+  images:
+    - file://H7e9XHJgaDrDD2oR
+  subtitle: Optimisation de la consommation de CO2
+  description: "Avec empAI, vous pouvez prévoir avec précision et optimiser votre consommation de CO2 par article afin d'atteindre une efficacité maximale. Outre l'analyse du CO2, le système vous permet également de prévoir les émissions de CO2 futures. Sur cette base, vous pouvez prendre des mesures prospectives pour fabriquer vos produits avec le moins d'émissions possible. Vous pouvez ainsi positionner votre entreprise comme un acteur responsable dans une société de plus en plus soucieuse de l'environnement."
+- 
+  images:
+    - file://H7e9XHJgaDrDD2oR
+  subtitle: >
+    Création automatisée de certificats de
+    CO2
+  description: "À partir de l'année prochaine, les certificats de CO2 seront obligatoires pour les produits de nombreuses entreprises. Avec empAI, vous pouvez automatiser ce processus sans effort : Le logiciel génère les certificats de CO2 nécessaires en quelques étapes seulement et crée des rapports complets qui répondent à toutes les exigences légales. Vous gagnez ainsi un temps précieux et assurez une documentation complète de vos émissions de CO2."
+
+----
+
+Relatedmodules: 

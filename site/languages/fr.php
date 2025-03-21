@@ -20,7 +20,8 @@ return [
         'contact.jetztAnfragen' => 'Contactez Nous Maintenant',
         'contact.produceMore' => 'Produire Plus',
         'hero.efficiency' => 'Efficacité',
-        'faq.title' => 'FAQ - Questions fréquemment posées sur empAI'
+        'faq.title' => 'FAQ - Questions fréquemment posées sur empAI',
+        'module.functionsOverview' => 'Aperçu des fonctions'
     ],
     'url' => NULL
 ];

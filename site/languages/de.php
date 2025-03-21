@@ -20,7 +20,8 @@ return [
         'contact.consumeLess' => 'verbrauchen Sie weniger',
         'contact.produceMore' => 'Erreichen Sie mehr',
         'contact.jetztAnfragen' => 'Jetzt anfragen',
-        'contact.contactAnalysis' => 'Sprechen Sie uns an für eine Potentialanalyse'
+        'contact.contactAnalysis' => 'Sprechen Sie uns an für eine Potentialanalyse',
+        'module.functionsOverview' => 'Die Funktionen im Überblick'
     ],
     'url' => NULL
 ];

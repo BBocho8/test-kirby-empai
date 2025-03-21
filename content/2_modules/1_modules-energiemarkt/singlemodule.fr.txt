@@ -1,0 +1,41 @@
+Title: Modules - Energiemarkt
+
+----
+
+Icon: icon1
+
+----
+
+Modulename: Marché de l'énergie
+
+----
+
+Introduction:
+
+Avec le marché de l'énergie d'empAI, vous pouvez facilement suivre vos achats d'énergie. Profitez des avantages d'une technologie de pointe qui vous aide à comprendre votre mix énergétique, à gérer au mieux vos contrats d'énergie et à acheter efficacement l'électricité dont vous avez besoin. 
+
+Tout cela vous permet de naviguer sur le marché dynamique de l'énergie et de réduire vos coûts au minimum.
+
+----
+
+Features:
+
+- 
+  images:
+    - file://H7e9XHJgaDrDD2oR
+  subtitle: Analyse de rentabilité
+  description: "empAI vous fournit une vue d'ensemble de votre mix énergétique en affichant de manière transparente et en analysant de manière ciblée l'utilisation du marché spot, du modèle de tranche, de l'énergie autoproduite et d'autres sources. Ainsi, empAI montre l'influence de l'énergie autoproduite sur les coûts et les bénéfices de l'alimentation du réseau et met en évidence les potentiels d'optimisation. Ainsi, empAI vous aide à concevoir un mix énergétique optimal pour des coûts stables et à réagir de manière flexible aux tendances du marché."
+- 
+  images:
+    - file://H7e9XHJgaDrDD2oR
+  subtitle: "Gestion des contrats d'électricité"
+  description: "Grâce à la fonction d'administration d'empAI, vous pouvez gérer tous les contrats d'énergie et les achats de tranches de manière transparente et efficace en un seul endroit. Grâce à notre plateforme, vous avez accès à tout moment à toutes les données importantes du contrat et aux détails de l'achat. Vous bénéficiez ainsi d'une transparence et d'un contrôle maximums sur vos transactions énergétiques."
+- 
+  images:
+    - file://H7e9XHJgaDrDD2oR
+  subtitle: Simulation du marché des tranches
+  description: "Utilisez la simulation du marché des tranches d'empAI pour prendre des décisions éclairées sur le marché dynamique de l'énergie. Ce développement innovant vous permet de suivre les différentes tranches et de simuler avec précision l'évolution future des prix ainsi que de l'offre et de la demande. En analysant vos données de consommation et de production, vos achats de tranches précédents et les tendances actuelles du marché de l'énergie, vous obtiendrez des informations approfondies qui vous aideront à optimiser votre stratégie d'achat d'énergie et à réduire sensiblement vos coûts."
+
+----
+
+Relatedmodules: 
