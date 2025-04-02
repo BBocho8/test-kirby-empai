@@ -1,39 +1,72 @@
-<section class="navbar-desktop">
+<?php snippet('header') ?>
 
-  <div class="navbar-wrapper">
-    <a href="<?= $site->url() ?>">
-      <img src="/assets/logo/empai-logo.png" alt="" class="logo">
-    </a>
-
-    <!-- Burger Menu Button -->
-    <button class="burger-menu" aria-label="Toggle menu">
-      <span class="burger-icon"></span>
-    </button>
-
-    <nav class="navbar-menu">
-      <?php foreach ($site->children()->listed() as $item): ?>
-        <a <?php e($item->isOpen(), 'aria-current="page" class="active"') ?> href="<?= $item->url() ?>"><?= $item->title()->esc() ?></a>
-      <?php endforeach ?>
-
-      <a href="mailto:info@empai.net?subject=Interested%20in%20empAI">
-        <button class="btn">Contact Us</button>
-      </a>
-
-      <!-- Language Switcher -->
-      <div class="language-switcher">
-        <button class="language-button">
-          <img src="/assets/icons/<?= kirby()->language()->code() ?>.svg" alt="<?= kirby()->language()->name() ?>">
-          <img src="/assets/icons/arrowdown.svg" alt="Dropdown arrow" class="arrow-icon">
-        </button>
-        <div class="language-dropdown">
-          <?php foreach ($kirby->languages() as $language): ?>
-            <a href="<?= $page->url($language->code()) ?>" class="language-option">
-              <img src="/assets/icons/<?= $language->code() ?>.svg" alt="<?= $language->name() ?>">
-              <span><?= $language->name() ?></span>
-            </a>
-          <?php endforeach ?>
-        </div>
-      </div>
-    </nav>
+<main class="module">
+  <!-- Icon + Title -->
+  <div class="module-header">
+    <img src="/assets/icons/modules/<?= $page->icon() ?>.png" alt="<?= $page->title() ?>" class="module-icon">
+    <h1 class="module-title"><?= $page->moduleName() ?></h1>
   </div>
-</section>
+
+  <!-- Introduction -->
+  <div class="module-introduction">
+    <?= $page->introduction()->kt() ?>
+  </div>
+
+  <!-- Die Funktionen im Überblick -->
+  <h2 class="module-subtitle">Die Funktionen im Überblick</h2>
+
+
+  <?php foreach ($page->features()->toStructure() as $feature): ?>
+    <div class="feature">
+      <?php if ($image = $feature->images()->toFiles()->first()): ?>
+        <div class="feature-image-container">
+
+          <img src="<?= $image->url() ?>" alt="<?= $feature->subtitle() ?>" class="feature-image">
+        </div>
+      <?php endif ?>
+      <h3><?= $feature->subtitle() ?></h3>
+      <p><?= $feature->description()->kt() ?></p>
+    </div>
+  <?php endforeach ?>
+
+
+  <!-- Weitere Module für Ihren Nutzen -->
+  <h2 class="module-subtitle">Weitere Module für Ihren Nutzen:</h2>
+  <div class="related-modules">
+    <?php
+    // Check if the current page is the Modules parent page
+    if ($page->is('modules')) {
+      // Fetch all children of the Modules page
+      $children = $page->children()->listed();
+
+      // Filter out modules with the same moduleName as the parent page
+      $relatedModules = $children->filter(function ($module) use ($page) {
+        return $module->moduleName()->value() !== $page->moduleName()->value();
+      })->limit(3);
+    } else {
+      // Fetch siblings of the current module
+      $siblings = $page->siblings()->listed();
+
+      // Filter out the current module
+      $relatedModules = $siblings->not($page)->limit(3);
+    }
+    ?>
+
+    <?php foreach ($relatedModules as $module): ?>
+      <a href="<?= $module->url() ?>" class="module-button">
+        <img src="/assets/icons/modules/<?= $module->icon() ?>.png" alt="<?= $module->title() ?>" class="module-button-icon">
+        <span class="module-button-span"><?= $module->moduleName() ?></span>
+
+        <img src="/assets/icons/rightarrow.svg" alt="Dropdown arrow" class="module-arrow-icon">
+
+
+
+      </a>
+    <?php endforeach ?>
+  </div>
+</main>
+
+
+</main>
+
+<?php snippet('footer') ?>
