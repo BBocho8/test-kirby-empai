@@ -1,0 +1,133 @@
+fields:
+  layout:
+    label: Page Layout
+    type: layout
+    pretty: true
+    fieldsets:
+      - markdown
+      - type: text  # <-- Define the text block explicitly
+        preview: fields
+        wysiwyg: true
+        fields:
+          text:
+            label: Text Content
+            type: textarea  # <-- Better for multiline content
+            # buttons:  # <-- Optional: Add formatting options
+            #   - h1
+            #   - h2
+            #   - bold
+            #   - italic
+            #   - link
+      - image
+      - type: heading  
+        preview: fields
+        wysiwyg: true
+        fields:
+          level:
+            label: Heading Level
+            type: select
+            default: h2
+            options:
+              - h1
+              - h2
+              - h3
+              - h4
+          text:
+            label: Heading Text
+            type: text
+            required: true  
+      - type: navbar
+        preview: fields
+        wysiwyg: true
+        fields:
+          logo:
+            label: Logo
+            type: files
+            max: 1
+            layout: list
+            template: image
+            query: site.find('settings').files().template('image')
+          logo_size:
+            label: Logo Size
+            type: select
+            default: medium
+            options:
+              small: Small
+              medium: Medium
+              large: Large
+            position:
+              label: Position
+              type: select
+              default: static
+              options:
+                static: Static (document flow)
+                fixed: Fixed (stays at top)
+            logo_size:
+              label: Logo Size
+              type: select
+              default: medium
+              options:
+                small: Small
+                medium: Medium
+                large: Large
+          menu_items:
+            label: Menu Items
+            type: structure
+            fields:
+              title:
+                label: Menu Item Text
+                type: text
+                required: true
+              link:
+                label: Link
+                type: text
+          show_contact_button:
+            label: Show Contact Button
+            type: toggle
+            default: true
+          contact_button_text:
+            label: Contact Button Text
+            type: text
+            default: Contact Us
+            when:
+              show_contact_button: true
+          show_language_switcher:
+            label: Show Language Switcher
+            type: toggle
+            default: true
+      - type: hero
+        label: Hero Header
+        preview: fields
+        wysiwyg: true
+        fields:
+          background_image:
+            label: Background Image
+            type: files
+            max: 1
+            template: image
+          hero_title:
+            label: Hero Title
+            type: markdown
+            required: true
+            placeholder: Enter the main text for the home page.
+          hero_subtitle:
+            label: Hero SubTitle
+            type: markdown
+            required: true
+            placeholder: Enter the first subtext.
+          hero_button_text:
+            label: Hero Button Text
+            type: text
+            required: true
+            placeholder: Enter the button text.
+          hero_button_link:
+            label: Hero Button Link
+            type: text
+            placeholder: Enter the button link.
+    layouts:
+      - "1/1"
+      - "1/2, 1/2"
+      - "1/4, 1/4, 1/4, 1/4"
+      - "1/3, 2/3"
+      - "2/3, 1/3"
+      - "1/3, 1/3, 1/3"

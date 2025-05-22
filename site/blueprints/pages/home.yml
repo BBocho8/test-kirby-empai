@@ -233,5 +233,3 @@ fields:
         type: text
         required: true
         placeholder: Enter the button text.
-
-        

@@ -36,3 +36,7 @@ sections:
     sortable: true
     limit: 10
     size: small
+  layouts:
+    type: pages
+    templates:
+      - layout-page

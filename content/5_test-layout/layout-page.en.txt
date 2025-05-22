@@ -1,0 +1,152 @@
+Title: Test Layout
+
+----
+
+Layout:
+
+[
+    {
+        "attrs": [],
+        "columns": [
+            {
+                "blocks": [
+                    {
+                        "content": {
+                            "logo": [
+                                "file://hOZN7aBup2lwV1xr"
+                            ],
+                            "logo_size": "medium",
+                            "menu_items": [
+                                {
+                                    "title": "Home",
+                                    "link": "/"
+                                },
+                                {
+                                    "title": "Blog",
+                                    "link": "/blog"
+                                },
+                                {
+                                    "title": "Modules",
+                                    "link": "/modules"
+                                },
+                                {
+                                    "title": "Test Layout",
+                                    "link": "/test-layout"
+                                }
+                            ],
+                            "show_contact_button": "true",
+                            "contact_button_text": "Contact Us",
+                            "show_language_switcher": "true"
+                        },
+                        "id": "3a7f8c5e-0a30-4e11-b039-b49580b953f9",
+                        "isHidden": false,
+                        "type": "navbar"
+                    }
+                ],
+                "id": "8ae2cb49-7317-4404-a228-e72148b90af6",
+                "width": "1/1"
+            }
+        ],
+        "id": "48801807-672b-43d1-b5d1-f440651c6ebe"
+    },
+    {
+        "attrs": [],
+        "columns": [
+            {
+                "blocks": [
+                    {
+                        "content": {
+                            "background_image": [],
+                            "hero_title": "Produce more,</br> Consume Less",
+                            "hero_subtitle": "AI-Powered Energy Management</br>for Sustainable Efficiency",
+                            "hero_button_text": "Request your demo",
+                            "hero_button_link": "mailto:info@empai.net?subject=Interested%20in%20empAI"
+                        },
+                        "id": "8a3b179d-e2d2-4f2f-81a2-7d0bd9aaf442",
+                        "isHidden": false,
+                        "type": "hero"
+                    }
+                ],
+                "id": "ba78330e-3868-4357-8aa3-034fdc862417",
+                "width": "1/1"
+            }
+        ],
+        "id": "c661e0b1-8787-40bc-afff-b71a81cb800e"
+    },
+    {
+        "attrs": [],
+        "columns": [
+            {
+                "blocks": [
+                    {
+                        "content": {
+                            "location": "kirby",
+                            "image": [
+                                "file://4r1VRrpalQUaKt64"
+                            ],
+                            "src": "",
+                            "alt": "",
+                            "link": "",
+                            "ratio": "16/9",
+                            "crop": "true"
+                        },
+                        "id": "234877c5-0b38-4093-a73a-0f1d413e65fd",
+                        "isHidden": false,
+                        "type": "image"
+                    }
+                ],
+                "id": "7c2bcbd2-9ae4-4946-9fde-6771150be24d",
+                "width": "1/2"
+            },
+            {
+                "blocks": [],
+                "id": "6610f497-e1cd-4f54-8216-57eb8b7783d6",
+                "width": "1/2"
+            }
+        ],
+        "id": "9d89dc2d-0db7-4923-abae-31036a9f0a3c"
+    },
+    {
+        "attrs": [],
+        "columns": [
+            {
+                "blocks": [
+                    {
+                        "content": {
+                            "level": "h2",
+                            "text": "HELLO WORLD"
+                        },
+                        "id": "e741c554-845c-4363-a4dd-1eed0e2a141c",
+                        "isHidden": false,
+                        "type": "heading"
+                    }
+                ],
+                "id": "9b78d0b5-e719-4915-8422-b5bebcb170f9",
+                "width": "1/2"
+            },
+            {
+                "blocks": [
+                    {
+                        "content": {
+                            "text": "# Hello\n\n**This is bold** and this is not"
+                        },
+                        "id": "cb99848f-c439-43fa-b927-73e20d517aab",
+                        "isHidden": false,
+                        "type": "text"
+                    }
+                ],
+                "id": "85571345-2c8d-46c7-9041-9b75eb74c6ac",
+                "width": "1/2"
+            }
+        ],
+        "id": "232b3f03-a688-4bc2-b464-fb3273fa5dc6"
+    }
+]
+
+----
+
+Blocks: 
+
+----
+
+Uuid: DQ5Q97Qp1HKwTzvo

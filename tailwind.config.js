@@ -12,6 +12,7 @@ export default {
 		extend: {
 			height: {
 				navbarHeight: "80px",
+				heroHeight: "calc(100vh - 80px)",
 			},
 			padding: {
 				navbarPadding: "80px",
